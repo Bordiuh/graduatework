@@ -1,0 +1,6029 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeREX Utilities\n"
+"POT-Creation-Date: 2018-08-31 11:15+0300\n"
+"PO-Revision-Date: 2015-10-06 14:20+0300\n"
+"Last-Translator: \n"
+"Language-Team: ThemeREX\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;_n_noop;_x;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: api/api.php:27
+msgid "BB Press & Buddy Press"
+msgstr ""
+
+#: api/api.php:30 api/booked/booked.php:31
+msgid "Booked Appointments"
+msgstr ""
+
+#: api/api.php:33 api/calculated-fields-form/calculated-fields-form.php:30
+#: api/calculated-fields-form/calculated-fields-form.php:74
+#: api/calculated-fields-form/calculated-fields-form.php:87
+#: api/calculated-fields-form/calculated-fields-form.php:114
+msgid "Calculated Fields Form"
+msgstr ""
+
+#: api/api.php:36 api/contact-form-7/contact-form-7.php:27
+msgid "Contact Form 7"
+msgstr ""
+
+#: api/api.php:39 api/content_timeline/content_timeline.php:52
+#: api/content_timeline/content_timeline.php:94
+#: api/content_timeline/content_timeline.php:107
+#: api/content_timeline/content_timeline.php:134
+msgid "Content Timeline"
+msgstr ""
+
+#: api/api.php:42 api/easy-digital-downloads/easy-digital-downloads.php:23
+#: api/easy-digital-downloads/easy-digital-downloads.php:119
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: api/api.php:45 api/essential-grid/essential-grid.php:195
+msgid "Essential Grid"
+msgstr ""
+
+#: api/api.php:48 api/instagram-feed/instagram-feed.php:26
+msgid "Instagram Feed"
+msgstr ""
+
+#: api/api.php:51
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: api/api.php:54 api/mp-timetable/mp-timetable.php:31
+#: api/mp-timetable/mp-timetable.php:126
+msgid "MP TimeTable"
+msgstr ""
+
+#: api/api.php:57 api/revslider/revslider.php:56
+#: api/revslider/revslider.php:192
+msgid "Revolution Slider"
+msgstr ""
+
+#: api/api.php:60
+msgid "SiteOrigin Panels (free PageBuilder)"
+msgstr ""
+
+#: api/api.php:66
+msgid "The Events Calendar"
+msgstr ""
+
+#: api/api.php:68 shortcodes/trx_basic/section.php:606
+#: shortcodes/trx_basic/title.php:155 shortcodes/trx_basic/title.php:328
+#: shortcodes/trx_optional/icon.php:243
+msgid "Default"
+msgstr ""
+
+#: api/api.php:69
+msgid "Detailed"
+msgstr ""
+
+#: api/api.php:73 api/tourmaster/tourmaster.php:32
+#: api/tourmaster/tourmaster.php:104 api/tourmaster/tourmaster.php:132
+msgid "Tour Master"
+msgstr ""
+
+#: api/api.php:76
+msgid "ThemeREX Donations"
+msgstr ""
+
+#: api/api.php:81 api/ubermenu/ubermenu.php:27
+msgid "UberMenu"
+msgstr ""
+
+#: api/api.php:84 api/js_composer/js_composer.php:36
+msgid "Visual Composer"
+msgstr ""
+
+#: api/api.php:90
+msgid "VC Extensions Bundle"
+msgstr ""
+
+#: api/api.php:93 api/woocommerce/woocommerce.php:29
+#: api/woocommerce/woocommerce.php:161
+msgid "WooCommerce"
+msgstr ""
+
+#: api/api.php:96
+msgid "WP Booking Calendar"
+msgstr ""
+
+#: api/api.php:99
+#: api/sitepress-multilingual-cms/sitepress-multilingual-cms.php:29
+msgid "WPML - Sitepress Multilingual CMS"
+msgstr ""
+
+#: api/bbpress/bbpress.php:25
+msgid "BBPress or BuddyPress"
+msgstr ""
+
+#: api/bbpress/bbpress.php:69
+msgid "Import BBPress and BuddyPress"
+msgstr ""
+
+#: api/bbpress/bbpress.php:82
+msgid "Clear BBPress and BuddyPress tables"
+msgstr ""
+
+#: api/bbpress/bbpress.php:119 api/bbpress/bbpress.php:154
+msgid "BBPress and BuddyPress data"
+msgstr ""
+
+#: api/bbpress/bbpress.php:198
+msgid "BBPress and BuddyPress"
+msgstr ""
+
+#: api/calculated-fields-form/calculated-fields-form.php:60
+msgid "Import Calculated Fields Form"
+msgstr ""
+
+#: api/contact-form-7/contact-form-7.php:50
+msgid "Import Contact Form 7"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:38
+#: api/revslider/revslider.php:41
+msgid "Inherit"
+msgstr ""
+
+#: api/content_timeline/content_timeline.php:80
+msgid "Import Content Timeline"
+msgstr ""
+
+#: api/easy-digital-downloads/easy-digital-downloads.php:51
+msgid "Import Easy Digital Downloads"
+msgstr ""
+
+#: api/easy-digital-downloads/easy-digital-downloads.php:65
+#: api/easy-digital-downloads/easy-digital-downloads.php:91
+msgid "Easy Digital Downloads meta"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:26
+msgid "Essential Grids"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:53
+msgid "Import Essential Grid"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:66
+msgid "Clear Essential Grid tables"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:69
+#, php-format
+msgid "Failed truncate table \"%s\". Error message: %s"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:160
+msgid "Essential Grid import complete"
+msgstr ""
+
+#: api/essential-grid/essential-grid.php:163
+#, php-format
+msgid "Essential Grid import error: %s"
+msgstr ""
+
+#: api/mailchimp-for-wp/mailchimp-for-wp.php:27
+msgid "MailChimp for WP"
+msgstr ""
+
+#: api/mailchimp-for-wp/mailchimp-for-wp.php:55
+msgid "Import MailChimp for WP"
+msgstr ""
+
+#: api/mp-timetable/mp-timetable.php:59
+msgid "Import MP TimeTable"
+msgstr ""
+
+#: api/mp-timetable/mp-timetable.php:73 api/mp-timetable/mp-timetable.php:99
+msgid "MP TimeTable data"
+msgstr ""
+
+#: api/revslider/revslider.php:83
+msgid "Import Revolution Sliders"
+msgstr ""
+
+#: api/revslider/revslider.php:96
+msgid "Clear Revolution Slider tables"
+msgstr ""
+
+#: api/revslider/revslider.php:99
+msgid "Failed truncate table \"revslider_sliders\"."
+msgstr ""
+
+#: api/revslider/revslider.php:101
+msgid "Failed truncate table \"revslider_slides\"."
+msgstr ""
+
+#: api/revslider/revslider.php:103
+msgid "Failed truncate table \"revslider_static_slides\"."
+msgstr ""
+
+#: api/revslider/revslider.php:117
+msgid "Import Revolution sliders"
+msgstr ""
+
+#: api/revslider/revslider.php:157
+#, php-format
+msgid "Revolution Slider \"%s\" import error."
+msgstr ""
+
+#: api/revslider/revslider.php:168
+#, php-format
+msgid "Slider \"%s\" imported"
+msgstr ""
+
+#: api/revslider/revslider.php:178
+#, php-format
+msgid "Can not locate plugin Revolution Slider: %s"
+msgstr ""
+
+#: api/revslider/revslider.php:217
+msgid "Revolution Sliders"
+msgstr ""
+
+#: api/siteorigin-panels/siteorigin-panels.php:42
+msgid "SiteOrigin Panels"
+msgstr ""
+
+#: api/the-events-calendar/the-events-calendar.php:30
+msgid "Tribe Events Calendar"
+msgstr ""
+
+#: api/tourmaster/tourmaster.php:64
+msgid "Import Tour Master"
+msgstr ""
+
+#: api/tourmaster/tourmaster.php:78
+msgid "Tour Master data"
+msgstr ""
+
+#: api/trx_donations/trx_donations.php:25
+msgid "trx_donations"
+msgstr ""
+
+#: api/vc-extensions-bundle/vc-extensions-bundle.php:26
+msgid "Visual Composer Extensions Bundle"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:89
+msgid "Import WooCommerce"
+msgstr ""
+
+#: api/woocommerce/woocommerce.php:103 api/woocommerce/woocommerce.php:130
+msgid "WooCommerce meta"
+msgstr ""
+
+#: api/wp-booking-calendar/wp-booking-calendar.php:31
+msgid "Booking Calendar WP Plugin"
+msgstr ""
+
+#: api/wp-booking-calendar/wp-booking-calendar.php:61
+msgid "Import Booking Calendar"
+msgstr ""
+
+#: api/wp-booking-calendar/wp-booking-calendar.php:75
+msgid "Booking Calendar meta"
+msgstr ""
+
+#: api/wp-booking-calendar/wp-booking-calendar.php:89
+#: api/wp-booking-calendar/wp-booking-calendar.php:128
+msgid "Booking Calendar"
+msgstr ""
+
+#: importer/class.importer.php:146
+msgid "Install Demo Data"
+msgstr ""
+
+#: importer/class.importer.php:159
+msgid ""
+"ATTENTION!\n"
+"\n"
+"In this case ALL THE OLD DATA WILL BE ERASED\n"
+"and YOU WILL GET A NEW SET OF POSTS, pages and menu items."
+msgstr ""
+
+#: importer/class.importer.php:161
+msgid ""
+"It is strongly recommended only for new installations of WordPress\n"
+"(without posts, pages and any other data)!"
+msgstr ""
+
+#: importer/class.importer.php:163
+msgid ""
+"Press 'OK' to continue or 'Cancel' to return to a partial installation"
+msgstr ""
+
+#: importer/class.importer.php:178 tools/emailer/emailer.php:112
+#: tools/po_composer/po_composer.php:203
+msgid "Incorrect WP-nonce data! Operation canceled!"
+msgstr ""
+
+#: importer/class.importer.php:188
+msgid "Importer"
+msgstr ""
+
+#: importer/class.importer.php:195
+msgid "Select the demo to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:205
+msgid "Select the demo-data set to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:207
+msgid "Only pages, forms and sliders"
+msgstr ""
+
+#: importer/class.importer.php:210
+msgid ""
+"<b>Only pages, forms layouts and sliders will be imported in this case.</b>"
+msgstr ""
+
+#: importer/class.importer.php:211
+msgid "The imported data will be added to the existing content."
+msgstr ""
+
+#: importer/class.importer.php:212
+msgid "All the images are replaced with placeholders."
+msgstr ""
+
+#: importer/class.importer.php:213
+msgid ""
+"The new pages provide sample markup and shall not be included in the menu! "
+"You have to do it yourself."
+msgstr ""
+
+#: importer/class.importer.php:214 importer/class.importer.php:223
+msgid ""
+"Import some components (Revolution sliders, Essential Grids, etc.) take a "
+"long time - <b>please wait until the end of the procedure, do not navigate "
+"away from this page</b>."
+msgstr ""
+
+#: importer/class.importer.php:217
+msgid "Whole demo-site content"
+msgstr ""
+
+#: importer/class.importer.php:220
+msgid ""
+"<b>ALL EXISTING CONTENTS</b> of your website will be deleted and replaced "
+"with the new data!"
+msgstr ""
+
+#: importer/class.importer.php:221
+msgid ""
+"<b>It is recommended for new installations of WordPress</b> (without "
+"posts, pages and any other data)!"
+msgstr ""
+
+#: importer/class.importer.php:222
+msgid ""
+"As a result, you will get a new set of posts, pages, menu items - <b>a "
+"complete copy of our demo site</b>."
+msgstr ""
+
+#: importer/class.importer.php:229
+msgid "Advanced settings"
+msgstr ""
+
+#: importer/class.importer.php:231
+msgid "Select the elements to be imported:"
+msgstr ""
+
+#: importer/class.importer.php:236
+msgid "Import posts, pages, taxonomies, etc."
+msgstr ""
+
+#: importer/class.importer.php:260
+msgid "Import Theme Options"
+msgstr ""
+
+#: importer/class.importer.php:266 importer/class.importer.php:956
+msgid "Import Theme Settings"
+msgstr ""
+
+#: importer/class.importer.php:272 importer/class.importer.php:978
+msgid "Import Widgets"
+msgstr ""
+
+#: importer/class.importer.php:282 importer/class.importer.php:776
+msgid "Import media"
+msgstr ""
+
+#: importer/class.importer.php:290 importer/class.importer.php:882
+msgid "Regenerate thumbnails"
+msgstr ""
+
+#: importer/class.importer.php:301
+msgid "Start import"
+msgstr ""
+
+#: importer/class.importer.php:306
+msgid "Import demo data"
+msgstr ""
+
+#: importer/class.importer.php:312 importer/class.importer.php:361
+#: importer/class.importer.php:770
+msgid "Posts"
+msgstr ""
+
+#: importer/class.importer.php:313 importer/class.importer.php:363
+msgid "Theme Options"
+msgstr ""
+
+#: importer/class.importer.php:314 importer/class.importer.php:364
+msgid "Theme Settings"
+msgstr ""
+
+#: importer/class.importer.php:315 importer/class.importer.php:365
+#: widgets/popular_posts.php:33 widgets/recent_posts.php:33
+#: widgets/recent_reviews.php:33 widgets/top10.php:33
+msgid "Widgets"
+msgstr ""
+
+#: importer/class.importer.php:326
+msgid "Media"
+msgstr ""
+
+#: importer/class.importer.php:327
+msgid "Thumbnails"
+msgstr ""
+
+#: importer/class.importer.php:334
+msgid "Congratulations! Data import complete!"
+msgstr ""
+
+#: importer/class.importer.php:334
+msgid "View site"
+msgstr ""
+
+#: importer/class.importer.php:343
+msgid "Exporter"
+msgstr ""
+
+#: importer/class.importer.php:360 importer/class.importer.php:759
+msgid "Users"
+msgstr ""
+
+#: importer/class.importer.php:362
+msgid "Uploads"
+msgstr ""
+
+#: importer/class.importer.php:377
+msgid "Select the demo type to be exported"
+msgstr ""
+
+#: importer/class.importer.php:390
+msgid "Export Demo Data"
+msgstr ""
+
+#: importer/class.importer.php:496
+msgid "Download"
+msgstr ""
+
+#: importer/class.importer.php:505
+msgid ""
+"Attention! For correct installation of the selected demo data, you must "
+"install and activate the following plugins: "
+msgstr ""
+
+#: importer/class.importer.php:577
+#, php-format
+msgid "User %d"
+msgstr ""
+
+#: importer/class.importer.php:586 importer/class.importer.php:588
+#, php-format
+msgid "FName%d"
+msgstr ""
+
+#: importer/class.importer.php:587 importer/class.importer.php:589
+#, php-format
+msgid "LName%d"
+msgstr ""
+
+#: importer/class.importer.php:632
+#, php-format
+msgid "Export %d rows from table '%s'. Used query: %s"
+msgstr ""
+
+#: importer/class.importer.php:644
+msgid "AJAX handler for importer"
+msgstr ""
+
+#: importer/class.importer.php:653
+#, php-format
+msgid "Dispatch action: %s"
+msgstr ""
+
+#: importer/class.importer.php:674
+#, php-format
+msgid "Start import from \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:720
+#, php-format
+msgid "AJAX handler finished - send results to client: %s"
+msgstr ""
+
+#: importer/class.importer.php:733
+msgid "Clear tables"
+msgstr ""
+
+#: importer/class.importer.php:735
+msgid "Failed truncate table POSTS."
+msgstr ""
+
+#: importer/class.importer.php:737
+msgid "Failed truncate table POSTMETA."
+msgstr ""
+
+#: importer/class.importer.php:739
+msgid "Failed truncate table COMMENTS."
+msgstr ""
+
+#: importer/class.importer.php:741
+msgid "Failed truncate table COMMENTMETA."
+msgstr ""
+
+#: importer/class.importer.php:743
+msgid "Failed truncate table TERMS."
+msgstr ""
+
+#: importer/class.importer.php:745
+msgid "Failed truncate table TERM_RELATIONSHIPS."
+msgstr ""
+
+#: importer/class.importer.php:747
+msgid "Failed truncate table TERM_TAXONOMY."
+msgstr ""
+
+#: importer/class.importer.php:757
+msgid "Import users"
+msgstr ""
+
+#: importer/class.importer.php:765
+msgid "Import posts, terms and comments"
+msgstr ""
+
+#: importer/class.importer.php:838
+#, php-format
+msgid "Loaded %d bytes"
+msgstr ""
+
+#: importer/class.importer.php:848
+#, php-format
+msgid ""
+"File %s imported. Current import progress: %s. Time limit: %s sec. Elapsed "
+"time: %s sec."
+msgstr ""
+
+#: importer/class.importer.php:853
+#, php-format
+msgid "Extract zip-file \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:856
+#, php-format
+msgid "Error when unzip file \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:865
+#, php-format
+msgid "File \"%s\" not found"
+msgstr ""
+
+#: importer/class.importer.php:921
+#, php-format
+msgid ""
+"Thumbnails of the attachments %s: %s regenerated. Current import progress: "
+"%s. Time limit: %s sec. Elapsed time: %s sec."
+msgstr ""
+
+#: importer/class.importer.php:933
+msgid "Import Theme Options (WP modifications)"
+msgstr ""
+
+#: importer/class.importer.php:948 importer/class.importer.php:970
+#: importer/class.importer.php:990 importer/class.importer.php:1146
+#, php-format
+msgid "Error unserialize data from the file %s"
+msgstr ""
+
+#: importer/class.importer.php:998
+#, php-format
+msgid "Import dump file: \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:1011
+#, php-format
+msgid "Process table \"%s\""
+msgstr ""
+
+#: importer/class.importer.php:1014
+#, php-format
+msgid "Table \"%s\" does not exists! Skip dump import for this table."
+msgstr ""
+
+#: importer/class.importer.php:1097
+#, php-format
+msgid "Record (ID=%s) is imported. Progress: %s. Time: %s sec. from %s sec."
+msgstr ""
+
+#: importer/class.importer.php:1141
+#, php-format
+msgid "Imported %s. Elapsed time %s sec. of %s sec."
+msgstr ""
+
+#: importer/class.importer.php:1167
+msgid "No-Image placeholder"
+msgstr ""
+
+#: importer/class.importer.php:1226
+msgid "Incorrect parameters"
+msgstr ""
+
+#: importer/class.importer.php:1362
+#, php-format
+msgid "Download file %s successful"
+msgstr ""
+
+#: importer/class.importer.php:1368
+#, php-format
+msgid "Attempt %d. Download file '%s' failed."
+msgstr ""
+
+#: importer/class.importer.php:1373
+#, php-format
+msgid "Error download file '%s'."
+msgstr ""
+
+#: importer/class.importer.php:1374 importer/class.importer.php:1403
+msgid "Please, try again!"
+msgstr ""
+
+#: importer/class.importer.php:1397
+#, php-format
+msgid "Attempt %d. Load data from the file '%s' failed. "
+msgstr ""
+
+#: importer/class.importer.php:1402
+#, php-format
+msgid "Error load data from the file '%s'."
+msgstr ""
+
+#: importer/class.importer.php:1411
+#, php-format
+msgid "Load data from the file %s successful"
+msgstr ""
+
+#: importer/importer.php:20
+msgid "Errors that occurred during the import process:"
+msgstr ""
+
+#: includes/plugin.files.php:450
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Put contents to the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.files.php:483
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Get contents from the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.files.php:514
+#, php-format
+msgid ""
+"WP Filesystem is not initialized! Get rows from the file \"%s\" failed"
+msgstr ""
+
+#: includes/plugin.users.php:41 templates/tpl.login.php:30
+msgid "Login"
+msgstr ""
+
+#: includes/plugin.users.php:55
+msgid "Register"
+msgstr ""
+
+#: includes/plugin.users.php:68
+msgid "The Login field can't be empty"
+msgstr ""
+
+#: includes/plugin.users.php:69
+msgid "The Login field is too long"
+msgstr ""
+
+#: includes/plugin.users.php:70
+msgid "The password can't be empty and shorter then 4 characters"
+msgstr ""
+
+#: includes/plugin.users.php:71
+msgid "The password is too long"
+msgstr ""
+
+#: includes/plugin.users.php:72
+msgid "Login success! The page will be reloaded in 3 sec."
+msgstr ""
+
+#: includes/plugin.users.php:73
+msgid "Login failed!"
+msgstr ""
+
+#: includes/plugin.users.php:74
+msgid "Please, read and check 'Terms and Conditions'"
+msgstr ""
+
+#: includes/plugin.users.php:75 trx_utils.php:200
+msgid "Too short (or empty) email address"
+msgstr ""
+
+#: includes/plugin.users.php:76
+msgid "E-mail address is too long"
+msgstr ""
+
+#: includes/plugin.users.php:77
+msgid "E-mail address is invalid"
+msgstr ""
+
+#: includes/plugin.users.php:78
+msgid "The passwords in both fields are not equal"
+msgstr ""
+
+#: includes/plugin.users.php:79
+msgid "Registration success! Please log in!"
+msgstr ""
+
+#: includes/plugin.users.php:80
+msgid "Registration failed!"
+msgstr ""
+
+#: includes/plugin.users.php:111
+#, php-format
+msgid "Site %s - New user registration: %s"
+msgstr ""
+
+#: includes/plugin.users.php:112
+msgid "New registration:"
+msgstr ""
+
+#: includes/plugin.users.php:113 includes/plugin.users.php:124
+#: shortcodes/trx_basic/form.php:260 widgets/qrcode/qrcode.php:82
+#: widgets/qrcode/qrcode.php:278
+msgid "Name:"
+msgstr ""
+
+#: includes/plugin.users.php:114 includes/plugin.users.php:125
+#: shortcodes/trx_basic/form.php:261 widgets/qrcode/qrcode.php:85
+#: widgets/qrcode/qrcode.php:247 widgets/qrcode/qrcode.php:282
+msgid "E-mail:"
+msgstr ""
+
+#: includes/plugin.users.php:122
+#, php-format
+msgid "Welcome to the \"%s\""
+msgstr ""
+
+#: includes/plugin.users.php:123
+msgid "Your registration data:"
+msgstr ""
+
+#: includes/plugin.users.php:126
+msgid "Password:"
+msgstr ""
+
+#: includes/support.attachment.php:18 includes/support.attachment.php:28
+msgid "Media Folders"
+msgstr ""
+
+#: includes/support.attachment.php:19
+msgid "Media Folder"
+msgstr ""
+
+#: includes/support.attachment.php:20
+msgid "Search Media Folders"
+msgstr ""
+
+#: includes/support.attachment.php:21
+msgid "All Media Folders"
+msgstr ""
+
+#: includes/support.attachment.php:22
+msgid "Parent Media Folder"
+msgstr ""
+
+#: includes/support.attachment.php:23
+msgid "Parent Media Folder:"
+msgstr ""
+
+#: includes/support.attachment.php:24
+msgid "Edit Media Folder"
+msgstr ""
+
+#: includes/support.attachment.php:25
+msgid "Update Media Folder"
+msgstr ""
+
+#: includes/support.attachment.php:26
+msgid "Add New Media Folder"
+msgstr ""
+
+#: includes/support.attachment.php:27
+msgid "New Media Folder Name"
+msgstr ""
+
+#: includes/support.clients.php:15 includes/support.clients.php:18
+#: includes/support.clients.php:20
+msgid "Clients"
+msgstr ""
+
+#: includes/support.clients.php:16
+msgid "Clients Description"
+msgstr ""
+
+#: includes/support.clients.php:19
+msgid "Client"
+msgstr ""
+
+#: includes/support.clients.php:21 includes/support.courses.php:23
+#: includes/support.courses.php:65 includes/support.matches.php:21
+#: includes/support.matches.php:62 includes/support.menuitems.php:21
+#: includes/support.services.php:21 includes/support.team.php:21
+#: includes/support.testimonials.php:21
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/support.clients.php:22
+msgid "All Clients"
+msgstr ""
+
+#: includes/support.clients.php:23 includes/support.courses.php:25
+#: includes/support.courses.php:67 includes/support.matches.php:23
+#: includes/support.matches.php:64 includes/support.menuitems.php:23
+#: includes/support.services.php:23 includes/support.team.php:23
+#: includes/support.testimonials.php:23
+msgid "View Item"
+msgstr ""
+
+#: includes/support.clients.php:24
+msgid "Add New Client"
+msgstr ""
+
+#: includes/support.clients.php:25 includes/support.courses.php:27
+#: includes/support.courses.php:69 includes/support.matches.php:25
+#: includes/support.matches.php:66 includes/support.menuitems.php:25
+#: includes/support.services.php:25 includes/support.team.php:25
+#: includes/support.testimonials.php:25
+msgid "Add New"
+msgstr ""
+
+#: includes/support.clients.php:26 includes/support.courses.php:28
+#: includes/support.courses.php:70 includes/support.matches.php:26
+#: includes/support.matches.php:67 includes/support.menuitems.php:26
+#: includes/support.services.php:26 includes/support.team.php:26
+#: includes/support.testimonials.php:26
+msgid "Edit Item"
+msgstr ""
+
+#: includes/support.clients.php:27 includes/support.courses.php:29
+#: includes/support.courses.php:71 includes/support.matches.php:27
+#: includes/support.matches.php:68 includes/support.menuitems.php:27
+#: includes/support.services.php:27 includes/support.team.php:27
+#: includes/support.testimonials.php:27
+msgid "Update Item"
+msgstr ""
+
+#: includes/support.clients.php:28 includes/support.courses.php:30
+#: includes/support.courses.php:72 includes/support.matches.php:28
+#: includes/support.matches.php:69 includes/support.menuitems.php:28
+#: includes/support.services.php:28 includes/support.team.php:28
+#: includes/support.testimonials.php:28
+msgid "Search Item"
+msgstr ""
+
+#: includes/support.clients.php:29 includes/support.courses.php:31
+#: includes/support.courses.php:73 includes/support.matches.php:29
+#: includes/support.matches.php:70 includes/support.menuitems.php:29
+#: includes/support.services.php:29 includes/support.team.php:29
+#: includes/support.testimonials.php:29
+msgid "Not found"
+msgstr ""
+
+#: includes/support.clients.php:30 includes/support.courses.php:32
+#: includes/support.courses.php:74 includes/support.matches.php:30
+#: includes/support.matches.php:71 includes/support.menuitems.php:30
+#: includes/support.services.php:30 includes/support.team.php:30
+#: includes/support.testimonials.php:30
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/support.clients.php:67 includes/support.clients.php:77
+msgid "Clients Group"
+msgstr ""
+
+#: includes/support.clients.php:68 includes/support.matches.php:109
+#: includes/support.matches.php:135 includes/support.menuitems.php:68
+#: includes/support.services.php:68 includes/support.team.php:68
+#: includes/support.testimonials.php:65
+#: shortcodes/trx_optional/emailer.php:75
+#: shortcodes/trx_optional/emailer.php:132
+msgid "Group"
+msgstr ""
+
+#: includes/support.clients.php:69 includes/support.courses.php:112
+#: includes/support.matches.php:110 includes/support.matches.php:136
+#: includes/support.menuitems.php:69 includes/support.services.php:69
+#: includes/support.team.php:69 includes/support.testimonials.php:66
+msgid "Search Groups"
+msgstr ""
+
+#: includes/support.clients.php:70 includes/support.courses.php:113
+#: includes/support.matches.php:111 includes/support.matches.php:137
+#: includes/support.menuitems.php:70 includes/support.services.php:70
+#: includes/support.team.php:70 includes/support.testimonials.php:67
+msgid "All Groups"
+msgstr ""
+
+#: includes/support.clients.php:71 includes/support.courses.php:114
+#: includes/support.matches.php:112 includes/support.matches.php:138
+#: includes/support.menuitems.php:71 includes/support.services.php:71
+#: includes/support.team.php:71 includes/support.testimonials.php:68
+msgid "Parent Group"
+msgstr ""
+
+#: includes/support.clients.php:72 includes/support.courses.php:115
+#: includes/support.matches.php:113 includes/support.matches.php:139
+#: includes/support.menuitems.php:72 includes/support.services.php:72
+#: includes/support.team.php:72 includes/support.testimonials.php:69
+msgid "Parent Group:"
+msgstr ""
+
+#: includes/support.clients.php:73 includes/support.courses.php:116
+#: includes/support.matches.php:114 includes/support.matches.php:140
+#: includes/support.menuitems.php:73 includes/support.services.php:73
+#: includes/support.team.php:73 includes/support.testimonials.php:70
+msgid "Edit Group"
+msgstr ""
+
+#: includes/support.clients.php:74 includes/support.courses.php:117
+#: includes/support.matches.php:115 includes/support.matches.php:141
+#: includes/support.menuitems.php:74 includes/support.services.php:74
+#: includes/support.team.php:74 includes/support.testimonials.php:71
+msgid "Update Group"
+msgstr ""
+
+#: includes/support.clients.php:75 includes/support.courses.php:118
+#: includes/support.matches.php:116 includes/support.matches.php:142
+#: includes/support.menuitems.php:75 includes/support.services.php:75
+#: includes/support.team.php:75 includes/support.testimonials.php:72
+msgid "Add New Group"
+msgstr ""
+
+#: includes/support.clients.php:76 includes/support.courses.php:119
+#: includes/support.matches.php:117 includes/support.matches.php:143
+#: includes/support.menuitems.php:76 includes/support.services.php:76
+#: includes/support.team.php:76 includes/support.testimonials.php:73
+msgid "New Group Name"
+msgstr ""
+
+#: includes/support.courses.php:17 includes/support.courses.php:21
+msgid "Course item"
+msgstr ""
+
+#: includes/support.courses.php:18
+msgid "Course Description"
+msgstr ""
+
+#: includes/support.courses.php:20 includes/support.courses.php:22
+msgid "Courses"
+msgstr ""
+
+#: includes/support.courses.php:24
+msgid "All Courses"
+msgstr ""
+
+#: includes/support.courses.php:26
+msgid "Add New Course item"
+msgstr ""
+
+#: includes/support.courses.php:59 includes/support.courses.php:63
+msgid "Lesson"
+msgstr ""
+
+#: includes/support.courses.php:60
+msgid "Lesson Description"
+msgstr ""
+
+#: includes/support.courses.php:62 includes/support.courses.php:64
+msgid "Lessons"
+msgstr ""
+
+#: includes/support.courses.php:66
+msgid "All lessons"
+msgstr ""
+
+#: includes/support.courses.php:68
+msgid "Add New lesson"
+msgstr ""
+
+#: includes/support.courses.php:110 includes/support.courses.php:120
+msgid "Courses Groups"
+msgstr ""
+
+#: includes/support.courses.php:111
+msgid "Courses Group"
+msgstr ""
+
+#: includes/support.courses.php:137 includes/support.courses.php:147
+msgid "Courses Tags"
+msgstr ""
+
+#: includes/support.courses.php:138
+msgid "Courses Tag"
+msgstr ""
+
+#: includes/support.courses.php:139
+msgid "Search Tags"
+msgstr ""
+
+#: includes/support.courses.php:140
+msgid "All Tags"
+msgstr ""
+
+#: includes/support.courses.php:141
+msgid "Parent Tag"
+msgstr ""
+
+#: includes/support.courses.php:142
+msgid "Parent Tag:"
+msgstr ""
+
+#: includes/support.courses.php:143
+msgid "Edit Tag"
+msgstr ""
+
+#: includes/support.courses.php:144
+msgid "Update Tag"
+msgstr ""
+
+#: includes/support.courses.php:145
+msgid "Add New Tag"
+msgstr ""
+
+#: includes/support.courses.php:146
+msgid "New Tag Name"
+msgstr ""
+
+#: includes/support.matches.php:15 includes/support.matches.php:18
+#: includes/support.matches.php:19 includes/support.matches.php:20
+msgid "Matches"
+msgstr ""
+
+#: includes/support.matches.php:16
+msgid "Matches Description"
+msgstr ""
+
+#: includes/support.matches.php:22
+msgid "All Matches"
+msgstr ""
+
+#: includes/support.matches.php:24
+msgid "Add New Match"
+msgstr ""
+
+#: includes/support.matches.php:56 includes/support.matches.php:59
+#: includes/support.matches.php:60 includes/support.matches.php:61
+msgid "Players"
+msgstr ""
+
+#: includes/support.matches.php:57
+msgid "Players Description"
+msgstr ""
+
+#: includes/support.matches.php:63
+msgid "All Players"
+msgstr ""
+
+#: includes/support.matches.php:65
+msgid "Add New Player"
+msgstr ""
+
+#: includes/support.matches.php:108
+msgid "Matches Group"
+msgstr ""
+
+#: includes/support.matches.php:118 includes/support.matches.php:144
+msgid "Categories"
+msgstr ""
+
+#: includes/support.matches.php:134
+msgid "Players Group"
+msgstr ""
+
+#: includes/support.menuitems.php:15 includes/support.menuitems.php:18
+#: includes/support.menuitems.php:20
+msgid "Menu items"
+msgstr ""
+
+#: includes/support.menuitems.php:16
+msgid "Menu Items Description"
+msgstr ""
+
+#: includes/support.menuitems.php:19
+msgid "Menu item"
+msgstr ""
+
+#: includes/support.menuitems.php:22
+msgid "All menu items"
+msgstr ""
+
+#: includes/support.menuitems.php:24
+msgid "Add New menu items"
+msgstr ""
+
+#: includes/support.menuitems.php:67
+msgid "Menu Items Group"
+msgstr ""
+
+#: includes/support.menuitems.php:77
+msgid "Menu items Group"
+msgstr ""
+
+#: includes/support.services.php:15 includes/support.services.php:19
+msgid "Service item"
+msgstr ""
+
+#: includes/support.services.php:16
+msgid "Service Description"
+msgstr ""
+
+#: includes/support.services.php:18 includes/support.services.php:20
+msgid "Services"
+msgstr ""
+
+#: includes/support.services.php:22
+msgid "All Services"
+msgstr ""
+
+#: includes/support.services.php:24
+msgid "Add New Service"
+msgstr ""
+
+#: includes/support.services.php:67 includes/support.services.php:77
+msgid "Services Group"
+msgstr ""
+
+#: includes/support.team.php:15 includes/support.team.php:19
+msgid "Team member"
+msgstr ""
+
+#: includes/support.team.php:16
+msgid "Team Description"
+msgstr ""
+
+#: includes/support.team.php:18 includes/support.team.php:20
+msgid "Team"
+msgstr ""
+
+#: includes/support.team.php:22
+msgid "All Team"
+msgstr ""
+
+#: includes/support.team.php:24
+msgid "Add New Team member"
+msgstr ""
+
+#: includes/support.team.php:67 includes/support.team.php:77
+msgid "Team Group"
+msgstr ""
+
+#: includes/support.testimonials.php:15 includes/support.testimonials.php:19
+msgid "Testimonial"
+msgstr ""
+
+#: includes/support.testimonials.php:16
+msgid "Testimonial Description"
+msgstr ""
+
+#: includes/support.testimonials.php:18 includes/support.testimonials.php:20
+msgid "Testimonials"
+msgstr ""
+
+#: includes/support.testimonials.php:22
+msgid "All Testimonials"
+msgstr ""
+
+#: includes/support.testimonials.php:24
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/support.testimonials.php:64
+msgid "Testimonials Group"
+msgstr ""
+
+#: includes/support.testimonials.php:74
+msgid "Testimonial Group"
+msgstr ""
+
+#: shortcodes/core.shortcodes.php:172
+msgid "- Select Shortcode -"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:18 shortcodes/shortcodes_vc.php:14
+msgid "Width"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:28 shortcodes/shortcodes_vc.php:26
+msgid "Height"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:29
+msgid "Width and height of the element"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:102 shortcodes/shortcodes_vc.php:161
+msgid "Element ID"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:103
+msgid "ID for current element"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:111 shortcodes/shortcodes_vc.php:171
+msgid "Element CSS class"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:112
+msgid "CSS class for current element (optional)"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:119 shortcodes/shortcodes_vc.php:192
+msgid "CSS styles"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:120 shortcodes/shortcodes_vc.php:193
+msgid "Any additional CSS rules (if need)"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:128
+msgid "Unordered"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:129
+msgid "Ordered"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:130
+msgid "Iconed"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:171 shortcodes/shortcodes_vc.php:181
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:172 shortcodes/shortcodes_vc.php:182
+msgid "Select animation while object enter in the visible area of page"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:179 shortcodes/shortcodes_vc.php:203
+msgid "Top margin"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:187 shortcodes/shortcodes_vc.php:212
+msgid "Bottom margin"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:194 shortcodes/shortcodes_vc.php:221
+msgid "Left margin"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:201 shortcodes/shortcodes_vc.php:230
+msgid "Right margin"
+msgstr ""
+
+#: shortcodes/shortcodes_settings.php:202
+msgid "Margins around this shortcode"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:15
+msgid "Width of the element"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:16 shortcodes/shortcodes_vc.php:28
+#: shortcodes/shortcodes_vc.php:205 shortcodes/shortcodes_vc.php:214
+#: shortcodes/shortcodes_vc.php:223 shortcodes/shortcodes_vc.php:232
+msgid "Size &amp; Margins"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:27
+msgid "Height of the element"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:120 shortcodes/shortcodes_vc.php:122
+#: shortcodes/shortcodes_vc.php:131 shortcodes/trx_basic/form.php:344
+#: shortcodes/trx_basic/form.php:486 shortcodes/trx_basic/googlemap.php:160
+#: shortcodes/trx_basic/googlemap.php:262
+#: shortcodes/trx_basic/price_block.php:139
+#: shortcodes/trx_basic/price_block.php:270
+#: shortcodes/trx_basic/promo.php:248 shortcodes/trx_basic/promo.php:448
+#: shortcodes/trx_basic/section.php:261 shortcodes/trx_basic/section.php:512
+#: widgets/recent_news.php:452
+msgid "Color scheme"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:121 shortcodes/trx_basic/form.php:345
+#: shortcodes/trx_basic/form.php:487 shortcodes/trx_basic/googlemap.php:161
+#: shortcodes/trx_basic/googlemap.php:263
+#: shortcodes/trx_basic/price_block.php:140
+#: shortcodes/trx_basic/price_block.php:271
+#: shortcodes/trx_basic/section.php:262 shortcodes/trx_basic/section.php:513
+#: widgets/recent_news.php:453
+msgid "Select color scheme for this block"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:129 shortcodes/shortcodes_vc.php:134
+msgid "Inverse colors"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:130
+msgid "Inverse all colors of this block"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:156
+msgid "ThemeREX shortcodes"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:162
+msgid "ID for the element"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:163 shortcodes/shortcodes_vc.php:173
+#: shortcodes/shortcodes_vc.php:183 shortcodes/shortcodes_vc.php:194
+msgid "ID &amp; Class"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:172
+msgid "CSS class for the element"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:204
+msgid "Margin above this shortcode"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:213
+msgid "Margin below this shortcode"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:222
+msgid "Margin on the left side of this shortcode"
+msgstr ""
+
+#: shortcodes/shortcodes_vc.php:231
+msgid "Margin on the right side of this shortcode"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:60 shortcodes/trx_basic/anchor.php:112
+msgid "Anchor"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:61 shortcodes/trx_basic/anchor.php:113
+msgid "Insert anchor for the TOC (table of content)"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:66 shortcodes/trx_basic/anchor.php:123
+msgid "Anchor's icon"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:67 shortcodes/trx_basic/anchor.php:124
+msgid "Select icon for the anchor from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:73 shortcodes/trx_basic/anchor.php:131
+msgid "Short title"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:74 shortcodes/trx_basic/anchor.php:132
+msgid "Short title of the anchor (for the table of content)"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:79 shortcodes/trx_basic/anchor.php:140
+msgid "Long description"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:80 shortcodes/trx_basic/anchor.php:141
+msgid ""
+"Description for the popup (then hover on the icon). You can use:<br>'{{' "
+"and '}}' - to make the text italic,<br>'((' and '))' - to make the text "
+"bold,<br>'||' - to insert line break"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:85 shortcodes/trx_basic/anchor.php:148
+msgid "External URL"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:86 shortcodes/trx_basic/anchor.php:149
+msgid "External URL for this TOC item"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:91 shortcodes/trx_basic/anchor.php:156
+msgid "Add separator"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:92 shortcodes/trx_basic/anchor.php:157
+msgid "Add separator under item in the TOC"
+msgstr ""
+
+#: shortcodes/trx_basic/anchor.php:114 shortcodes/trx_basic/audio.php:197
+#: shortcodes/trx_basic/blogger.php:546
+#: shortcodes/trx_basic/call_to_action.php:293
+#: shortcodes/trx_basic/columns.php:246 shortcodes/trx_basic/form.php:466
+#: shortcodes/trx_basic/googlemap.php:234 shortcodes/trx_basic/image.php:160
+#: shortcodes/trx_basic/line.php:175 shortcodes/trx_basic/list.php:230
+#: shortcodes/trx_basic/price_block.php:188
+#: shortcodes/trx_basic/promo.php:280 shortcodes/trx_basic/quote.php:115
+#: shortcodes/trx_basic/section.php:385 shortcodes/trx_basic/sidebar.php:93
+#: shortcodes/trx_basic/skills.php:514 shortcodes/trx_basic/slider.php:642
+#: shortcodes/trx_basic/socials.php:212 shortcodes/trx_basic/table.php:113
+#: shortcodes/trx_basic/title.php:260 shortcodes/trx_basic/video.php:280
+#: shortcodes/trx_optional/button.php:207
+#: shortcodes/trx_optional/dropcaps.php:112
+#: shortcodes/trx_optional/emailer.php:123
+#: shortcodes/trx_optional/highlight.php:119
+#: shortcodes/trx_optional/icon.php:184 shortcodes/trx_optional/price.php:124
+#: shortcodes/trx_optional/search.php:145
+#: shortcodes/trx_optional/tabs.php:241
+#: shortcodes/trx_optional/toggles.php:206 widgets/banner.php:181
+#: widgets/calendar.php:151 widgets/categories.php:220 widgets/flickr.php:161
+#: widgets/popular_posts.php:361 widgets/recent_news.php:433
+#: widgets/recent_posts.php:309 widgets/recent_reviews.php:316
+#: widgets/socials.php:224 widgets/top10.php:348 widgets/twitter.php:212
+msgid "Content"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:100 shortcodes/trx_basic/audio.php:195
+msgid "Audio"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:101 shortcodes/trx_basic/audio.php:196
+msgid "Insert audio player"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:106 shortcodes/trx_basic/audio.php:107
+#: shortcodes/trx_basic/audio.php:206
+msgid "URL for audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:112
+msgid "Choose audio"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:118
+msgid "Choose audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:119
+msgid "Select audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:128 shortcodes/trx_basic/audio.php:215
+#: shortcodes/trx_basic/video.php:204 shortcodes/trx_basic/video.php:326
+msgid "Cover image"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:129 shortcodes/trx_basic/audio.php:216
+msgid "Select or upload image or write URL from other site for audio cover"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:135 shortcodes/trx_basic/audio.php:223
+#: shortcodes/trx_basic/blogger.php:301 shortcodes/trx_basic/blogger.php:678
+#: shortcodes/trx_basic/call_to_action.php:163
+#: shortcodes/trx_basic/call_to_action.php:361
+#: shortcodes/trx_basic/form.php:318 shortcodes/trx_basic/form.php:528
+#: shortcodes/trx_basic/googlemap.php:204
+#: shortcodes/trx_basic/googlemap.php:312 shortcodes/trx_basic/image.php:97
+#: shortcodes/trx_basic/image.php:199 shortcodes/trx_basic/line.php:134
+#: shortcodes/trx_basic/line.php:230 shortcodes/trx_basic/price_block.php:95
+#: shortcodes/trx_basic/price_block.php:207
+#: shortcodes/trx_basic/promo.php:189 shortcodes/trx_basic/promo.php:366
+#: shortcodes/trx_basic/section.php:171 shortcodes/trx_basic/section.php:420
+#: shortcodes/trx_basic/skills.php:402 shortcodes/trx_basic/skills.php:449
+#: shortcodes/trx_basic/skills.php:670 shortcodes/trx_basic/skills.php:742
+#: shortcodes/trx_basic/title.php:95 shortcodes/trx_basic/title.php:258
+#: shortcodes/trx_optional/search.php:109
+#: shortcodes/trx_optional/search.php:174
+#: shortcodes/trx_optional/tabs.php:202 shortcodes/trx_optional/tabs.php:323
+#: shortcodes/trx_optional/toggles.php:274
+#: shortcodes/trx_optional/tooltip.php:55 widgets/recent_news.php:469
+msgid "Title"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:136 shortcodes/trx_basic/audio.php:224
+msgid "Title of the audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:142 shortcodes/trx_basic/audio.php:232
+msgid "Author"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:143 shortcodes/trx_basic/audio.php:233
+msgid "Author of the audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:148 shortcodes/trx_basic/blogger.php:822
+#: shortcodes/trx_basic/slider.php:772
+msgid "Show controls"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:149
+msgid "Show controls in audio player"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:157
+msgid "Autoplay audio"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:158 shortcodes/trx_basic/audio.php:249
+msgid "Autoplay audio on page load"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:164 shortcodes/trx_basic/form.php:372
+#: shortcodes/trx_basic/section.php:208 shortcodes/trx_basic/video.php:196
+msgid "Align"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:165 shortcodes/trx_basic/audio.php:257
+#: shortcodes/trx_basic/call_to_action.php:312
+#: shortcodes/trx_basic/section.php:209 shortcodes/trx_basic/section.php:404
+#: shortcodes/trx_basic/video.php:197 shortcodes/trx_basic/video.php:319
+msgid "Select block alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:207
+msgid "Put here URL for audio file"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:240
+msgid "Controls"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:241
+msgid "Show/hide controls"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:248
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/trx_basic/audio.php:256
+#: shortcodes/trx_basic/call_to_action.php:188
+#: shortcodes/trx_basic/call_to_action.php:311
+#: shortcodes/trx_basic/columns.php:181 shortcodes/trx_basic/columns.php:326
+#: shortcodes/trx_basic/form.php:520 shortcodes/trx_basic/price_block.php:146
+#: shortcodes/trx_basic/price_block.php:279
+#: shortcodes/trx_basic/section.php:403 shortcodes/trx_basic/skills.php:626
+#: shortcodes/trx_basic/title.php:135 shortcodes/trx_basic/title.php:307
+#: shortcodes/trx_basic/video.php:318 shortcodes/trx_optional/emailer.php:89
+#: shortcodes/trx_optional/emailer.php:149
+#: shortcodes/trx_optional/icon.php:145 shortcodes/trx_optional/price.php:94
+#: shortcodes/trx_optional/price.php:160
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:55
+#: shortcodes/trx_basic/call_to_action.php:34
+#: shortcodes/trx_basic/section.php:47 shortcodes/trx_basic/skills.php:41
+msgid "Learn more"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:245 shortcodes/trx_basic/blogger.php:252
+msgid "All"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:295 shortcodes/trx_basic/blogger.php:544
+msgid "Blogger"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:296 shortcodes/trx_basic/blogger.php:545
+msgid ""
+"Insert posts (pages) in many styles from desired categories or directly "
+"from ids"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:302 shortcodes/trx_basic/blogger.php:679
+#: shortcodes/trx_basic/call_to_action.php:164
+#: shortcodes/trx_basic/call_to_action.php:362
+#: shortcodes/trx_basic/form.php:319 shortcodes/trx_basic/form.php:529
+#: shortcodes/trx_basic/promo.php:190 shortcodes/trx_basic/promo.php:367
+#: shortcodes/trx_basic/section.php:172 shortcodes/trx_basic/section.php:421
+#: shortcodes/trx_basic/skills.php:403 shortcodes/trx_basic/skills.php:671
+#: shortcodes/trx_optional/tabs.php:203 shortcodes/trx_optional/tabs.php:324
+#: widgets/recent_news.php:470
+msgid "Title for the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:307 shortcodes/trx_basic/blogger.php:688
+#: shortcodes/trx_basic/call_to_action.php:169
+#: shortcodes/trx_basic/call_to_action.php:371
+#: shortcodes/trx_basic/form.php:324 shortcodes/trx_basic/form.php:538
+#: shortcodes/trx_basic/promo.php:179 shortcodes/trx_basic/promo.php:353
+#: shortcodes/trx_basic/section.php:177 shortcodes/trx_basic/section.php:430
+#: shortcodes/trx_basic/skills.php:408 shortcodes/trx_basic/skills.php:680
+#: widgets/recent_news.php:478
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:308 shortcodes/trx_basic/blogger.php:689
+#: shortcodes/trx_basic/call_to_action.php:170
+#: shortcodes/trx_basic/call_to_action.php:372
+#: shortcodes/trx_basic/form.php:325 shortcodes/trx_basic/form.php:539
+#: shortcodes/trx_basic/promo.php:180 shortcodes/trx_basic/promo.php:354
+#: shortcodes/trx_basic/section.php:178 shortcodes/trx_basic/section.php:431
+#: shortcodes/trx_basic/skills.php:409 shortcodes/trx_basic/skills.php:681
+#: widgets/recent_news.php:479
+msgid "Subtitle for the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:313 shortcodes/trx_basic/blogger.php:697
+#: shortcodes/trx_basic/call_to_action.php:175
+#: shortcodes/trx_basic/call_to_action.php:380
+#: shortcodes/trx_basic/form.php:330 shortcodes/trx_basic/form.php:547
+#: shortcodes/trx_basic/googlemap.php:210
+#: shortcodes/trx_basic/price_block.php:155
+#: shortcodes/trx_basic/price_block.php:288
+#: shortcodes/trx_basic/promo.php:195 shortcodes/trx_basic/promo.php:376
+#: shortcodes/trx_basic/section.php:183 shortcodes/trx_basic/section.php:439
+#: shortcodes/trx_basic/skills.php:414 shortcodes/trx_basic/skills.php:689
+#: shortcodes/trx_optional/tabs.php:208 shortcodes/trx_optional/tabs.php:332
+msgid "Description"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:314
+#: shortcodes/trx_basic/call_to_action.php:176
+#: shortcodes/trx_basic/form.php:331 shortcodes/trx_basic/promo.php:196
+#: shortcodes/trx_basic/section.php:184 shortcodes/trx_basic/skills.php:415
+#: shortcodes/trx_optional/tabs.php:209
+msgid "Short description for the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:319
+msgid "Posts output style"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:320 shortcodes/trx_basic/blogger.php:556
+msgid "Select desired style for posts output"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:326 shortcodes/trx_basic/blogger.php:565
+msgid "Show filters"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:327 shortcodes/trx_basic/blogger.php:566
+msgid "Use post's tags or categories as filter buttons"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:334 shortcodes/trx_basic/blogger.php:574
+msgid "Hover effect"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:335 shortcodes/trx_basic/blogger.php:575
+msgid "Select hover effect (only if style=Portfolio)"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:344 shortcodes/trx_basic/blogger.php:586
+msgid "Hover direction"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:345 shortcodes/trx_basic/blogger.php:587
+msgid ""
+"Select hover direction (only if style=Portfolio and hover=Circle|Square)"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:355 shortcodes/trx_basic/blogger.php:610
+msgid "Posts direction"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:356 shortcodes/trx_basic/blogger.php:611
+msgid "Display posts in horizontal or vertical direction"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:363 shortcodes/trx_basic/blogger.php:724
+#: widgets/categories.php:265 widgets/popular_posts.php:412
+#: widgets/recent_news.php:506 widgets/recent_posts.php:336
+#: widgets/recent_reviews.php:343 widgets/top10.php:391
+msgid "Post type"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:364 shortcodes/trx_basic/blogger.php:725
+#: widgets/categories.php:266 widgets/popular_posts.php:413
+#: widgets/recent_news.php:507 widgets/recent_posts.php:337
+#: widgets/recent_reviews.php:344 widgets/top10.php:392
+msgid "Select post type to show"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:370 shortcodes/trx_basic/blogger.php:733
+msgid "Post IDs list"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:371 shortcodes/trx_basic/blogger.php:734
+#: shortcodes/trx_basic/slider.php:473 shortcodes/trx_basic/slider.php:753
+msgid ""
+"Comma separated list of posts ID. If set - parameters above are ignored!"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:376 shortcodes/trx_basic/blogger.php:742
+#: shortcodes/trx_basic/slider.php:692
+msgid "Categories list"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:377
+msgid ""
+"Select the desired categories. If not selected - show posts from any "
+"category or from IDs list"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:387 shortcodes/trx_basic/blogger.php:750
+#: shortcodes/trx_basic/slider.php:427 shortcodes/trx_basic/slider.php:699
+#: widgets/categories.php:277 widgets/popular_posts.php:424
+#: widgets/recent_news.php:520 widgets/recent_posts.php:348
+#: widgets/recent_reviews.php:355 widgets/top10.php:403
+msgid "- Select category -"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:390 shortcodes/trx_basic/blogger.php:755
+msgid "Total posts to show"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:391 shortcodes/trx_basic/blogger.php:756
+#: shortcodes/trx_basic/slider.php:431 shortcodes/trx_basic/slider.php:705
+#: widgets/recent_news.php:526
+msgid ""
+"How many posts will be displayed? If used IDs - this parameter ignored."
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:401 shortcodes/trx_basic/blogger.php:620
+msgid "Columns number"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:402
+msgid ""
+"How many columns used to show posts? If empty or 0 - equal to posts number"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:412 shortcodes/trx_basic/blogger.php:769
+#: widgets/recent_news.php:563
+msgid "Offset before select posts"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:413 shortcodes/trx_basic/blogger.php:770
+#: shortcodes/trx_basic/slider.php:442 shortcodes/trx_basic/slider.php:717
+#: widgets/recent_news.php:564
+msgid "Skip posts before select next part."
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:423 shortcodes/trx_basic/blogger.php:782
+msgid "Post order by"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:424 shortcodes/trx_basic/blogger.php:783
+#: shortcodes/trx_basic/slider.php:452 shortcodes/trx_basic/slider.php:729
+#: widgets/recent_news.php:573
+msgid "Select desired posts sorting method"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:430 shortcodes/trx_basic/blogger.php:791
+#: widgets/recent_news.php:581
+msgid "Post order"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:431 shortcodes/trx_basic/blogger.php:792
+#: shortcodes/trx_basic/slider.php:462 shortcodes/trx_basic/slider.php:741
+#: widgets/recent_news.php:582
+msgid "Select desired posts order"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:438 shortcodes/trx_basic/blogger.php:800
+msgid "Select posts only"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:439 shortcodes/trx_basic/blogger.php:801
+msgid "Select posts only with reviews, videos, audios, thumbs or galleries"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:445 shortcodes/trx_basic/blogger.php:809
+#: shortcodes/trx_basic/blogger.php:813 shortcodes/trx_basic/section.php:231
+#: shortcodes/trx_basic/section.php:475
+msgid "Use scroller"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:446 shortcodes/trx_basic/blogger.php:810
+msgid "Use scroller to show all posts"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:453 shortcodes/trx_basic/blogger.php:818
+msgid "Show slider controls"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:454 shortcodes/trx_basic/blogger.php:819
+msgid "Show arrows to control scroll slider"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:463 shortcodes/trx_basic/blogger.php:598
+msgid "Dedicated content location"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:464 shortcodes/trx_basic/blogger.php:599
+msgid "Select position for dedicated content (only for style=excerpt)"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:474 shortcodes/trx_basic/blogger.php:632
+msgid "Show rating stars"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:475 shortcodes/trx_basic/blogger.php:633
+msgid "Show rating stars under post's header"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:481 shortcodes/trx_basic/blogger.php:641
+msgid "Show post info block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:482 shortcodes/trx_basic/blogger.php:642
+msgid "Show post info block (author, date, tags, etc.)"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:488
+msgid "Allow links on the post"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:489
+msgid "Allow links on the post from each blogger item"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:495 shortcodes/trx_basic/blogger.php:650
+msgid "Description length"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:496 shortcodes/trx_basic/blogger.php:651
+msgid ""
+"How many characters are displayed from post excerpt? If 0 - don't show "
+"description"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:503 shortcodes/trx_basic/blogger.php:669
+msgid "More link text"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:504 shortcodes/trx_basic/blogger.php:670
+msgid "Read more link text. If empty - show 'More', else - used as link text"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:509 shortcodes/trx_basic/blogger.php:706
+#: shortcodes/trx_basic/call_to_action.php:242
+#: shortcodes/trx_basic/call_to_action.php:389
+#: shortcodes/trx_basic/promo.php:204 shortcodes/trx_basic/promo.php:389
+#: shortcodes/trx_basic/section.php:189 shortcodes/trx_basic/section.php:448
+#: shortcodes/trx_basic/skills.php:420 shortcodes/trx_basic/skills.php:698
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:510 shortcodes/trx_basic/blogger.php:707
+#: shortcodes/trx_basic/call_to_action.php:243
+#: shortcodes/trx_basic/call_to_action.php:390
+#: shortcodes/trx_basic/promo.php:205 shortcodes/trx_basic/promo.php:390
+#: shortcodes/trx_basic/section.php:190 shortcodes/trx_basic/section.php:449
+#: shortcodes/trx_basic/skills.php:421 shortcodes/trx_basic/skills.php:699
+msgid "Link URL for the button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:515 shortcodes/trx_basic/blogger.php:715
+#: shortcodes/trx_basic/call_to_action.php:249
+#: shortcodes/trx_basic/call_to_action.php:398
+#: shortcodes/trx_basic/promo.php:214 shortcodes/trx_basic/promo.php:402
+#: shortcodes/trx_basic/section.php:195 shortcodes/trx_basic/section.php:457
+#: shortcodes/trx_basic/skills.php:426 shortcodes/trx_basic/skills.php:707
+#: shortcodes/trx_optional/button.php:89
+#: shortcodes/trx_optional/button.php:217
+msgid "Button caption"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:516 shortcodes/trx_basic/blogger.php:716
+#: shortcodes/trx_basic/call_to_action.php:250
+#: shortcodes/trx_basic/call_to_action.php:399
+#: shortcodes/trx_basic/promo.php:215 shortcodes/trx_basic/promo.php:403
+#: shortcodes/trx_basic/section.php:196 shortcodes/trx_basic/section.php:458
+#: shortcodes/trx_basic/skills.php:427 shortcodes/trx_basic/skills.php:708
+msgid "Caption for the button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:555
+msgid "Output style"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:621
+msgid "How many columns used to display posts?"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:634 shortcodes/trx_basic/blogger.php:652
+#: shortcodes/trx_basic/blogger.php:661 shortcodes/trx_basic/blogger.php:671
+#: shortcodes/trx_basic/slider.php:766 shortcodes/trx_basic/slider.php:779
+#: shortcodes/trx_basic/slider.php:798 shortcodes/trx_basic/slider.php:815
+#: shortcodes/trx_basic/slider.php:828 shortcodes/trx_basic/slider.php:841
+#: shortcodes/trx_basic/slider.php:854 shortcodes/trx_basic/slider.php:868
+#: shortcodes/trx_basic/slider.php:882 shortcodes/trx_basic/slider.php:895
+#: widgets/popular_posts.php:431 widgets/popular_posts.php:441
+#: widgets/popular_posts.php:451 widgets/popular_posts.php:461
+#: widgets/recent_posts.php:355 widgets/recent_posts.php:365
+#: widgets/recent_posts.php:375 widgets/recent_posts.php:386
+#: widgets/recent_reviews.php:362 widgets/recent_reviews.php:372
+#: widgets/recent_reviews.php:382 widgets/recent_reviews.php:393
+#: widgets/top10.php:410 widgets/top10.php:420 widgets/top10.php:430
+#: widgets/top10.php:441
+msgid "Details"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:636
+msgid "Show rating"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:645
+msgid "Show info"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:659
+msgid "Allow links to the post"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:660
+msgid "Allow links to the post from each blogger item"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:664
+msgid "Allow links"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:681 shortcodes/trx_basic/blogger.php:690
+#: shortcodes/trx_basic/blogger.php:699 shortcodes/trx_basic/blogger.php:708
+#: shortcodes/trx_basic/blogger.php:717
+#: shortcodes/trx_basic/call_to_action.php:364
+#: shortcodes/trx_basic/call_to_action.php:373
+#: shortcodes/trx_basic/call_to_action.php:382
+#: shortcodes/trx_basic/call_to_action.php:391
+#: shortcodes/trx_basic/call_to_action.php:400
+#: shortcodes/trx_basic/call_to_action.php:409
+#: shortcodes/trx_basic/call_to_action.php:418
+#: shortcodes/trx_basic/form.php:531 shortcodes/trx_basic/form.php:540
+#: shortcodes/trx_basic/form.php:549 shortcodes/trx_basic/promo.php:359
+#: shortcodes/trx_basic/promo.php:368 shortcodes/trx_basic/promo.php:378
+#: shortcodes/trx_basic/promo.php:391 shortcodes/trx_basic/promo.php:404
+#: shortcodes/trx_basic/promo.php:417 shortcodes/trx_basic/promo.php:430
+#: shortcodes/trx_basic/section.php:423 shortcodes/trx_basic/section.php:432
+#: shortcodes/trx_basic/section.php:441 shortcodes/trx_basic/section.php:450
+#: shortcodes/trx_basic/section.php:459 shortcodes/trx_basic/skills.php:673
+#: shortcodes/trx_basic/skills.php:682 shortcodes/trx_basic/skills.php:691
+#: shortcodes/trx_basic/skills.php:700 shortcodes/trx_basic/skills.php:709
+msgid "Captions"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:698
+#: shortcodes/trx_basic/call_to_action.php:381
+#: shortcodes/trx_basic/form.php:548 shortcodes/trx_basic/promo.php:377
+#: shortcodes/trx_basic/section.php:440 shortcodes/trx_basic/skills.php:690
+#: shortcodes/trx_optional/tabs.php:333
+msgid "Description for the block"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:726 shortcodes/trx_basic/blogger.php:735
+#: shortcodes/trx_basic/blogger.php:748 shortcodes/trx_basic/blogger.php:762
+#: shortcodes/trx_basic/blogger.php:775 shortcodes/trx_basic/blogger.php:785
+#: shortcodes/trx_basic/blogger.php:794 shortcodes/trx_basic/blogger.php:803
+#: widgets/recent_news.php:508 widgets/recent_news.php:518
+#: widgets/recent_news.php:528 widgets/recent_news.php:538
+#: widgets/recent_news.php:551 widgets/recent_news.php:565
+#: widgets/recent_news.php:574 widgets/recent_news.php:583
+#: widgets/recent_news.php:592
+msgid "Query"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:743 shortcodes/trx_basic/slider.php:693
+msgid ""
+"Select category. If empty - show posts from any category or from IDs list"
+msgstr ""
+
+#: shortcodes/trx_basic/blogger.php:811 shortcodes/trx_basic/blogger.php:820
+#: shortcodes/trx_basic/section.php:468 shortcodes/trx_basic/section.php:477
+#: shortcodes/trx_basic/section.php:489 shortcodes/trx_basic/section.php:502
+msgid "Scroll"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:41
+msgid "Break"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:42
+msgid "Line break with clear floating (if need)"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:47
+msgid "Clear floating"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:48
+msgid "Clear floating (if need)"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:52 shortcodes/trx_basic/slider.php:500
+#: shortcodes/trx_basic/slider.php:787 shortcodes/trx_optional/icon.php:102
+#: shortcodes/trx_optional/icon.php:223
+msgid "None"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:53 shortcodes/trx_basic/title.php:233
+#: shortcodes/trx_basic/title.php:413
+msgid "Left"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:54
+msgid "Right"
+msgstr ""
+
+#: shortcodes/trx_basic/br.php:55
+msgid "Both"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:157
+msgid "Call to action"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:158
+#: shortcodes/trx_basic/call_to_action.php:292
+msgid "Insert call to action block in your page (post)"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:181
+#: shortcodes/trx_basic/form.php:336 shortcodes/trx_basic/form.php:476
+#: shortcodes/trx_basic/googlemap.php:253 shortcodes/trx_basic/line.php:97
+#: shortcodes/trx_basic/line.php:184 shortcodes/trx_basic/promo.php:126
+#: shortcodes/trx_optional/dropcaps.php:72
+#: shortcodes/trx_optional/dropcaps.php:121
+#: shortcodes/trx_optional/search.php:91
+#: shortcodes/trx_optional/search.php:154
+msgid "Style"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:182
+#: shortcodes/trx_basic/promo.php:127
+msgid "Select style to display block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:189
+msgid "Alignment elements in the block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:196
+msgid "Accented"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:197
+#: shortcodes/trx_basic/call_to_action.php:320
+msgid "Fill entire block with links color from current color scheme"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:204
+#: shortcodes/trx_basic/call_to_action.php:327
+#: shortcodes/trx_optional/highlight.php:67
+#: shortcodes/trx_optional/highlight.php:133
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:205
+#: shortcodes/trx_basic/call_to_action.php:328
+msgid ""
+"Allow get featured image or video from inner shortcodes (custom) or get it "
+"from shortcode parameters below"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:212
+#: shortcodes/trx_basic/call_to_action.php:335
+#: shortcodes/trx_basic/image.php:81 shortcodes/trx_basic/image.php:158
+#: widgets/banner.php:199
+msgid "Image"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:213
+msgid ""
+"Select or upload image or write URL from other site to include image into "
+"this block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:220
+#: shortcodes/trx_basic/call_to_action.php:348
+#: shortcodes/trx_basic/video.php:156 shortcodes/trx_basic/video.php:289
+msgid "URL for video file"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:221
+msgid ""
+"Select video from media library or paste URL for video file from other "
+"site to include video into this block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:226
+#: shortcodes/trx_basic/video.php:162
+msgid "Choose video"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:232
+#: shortcodes/trx_basic/video.php:168
+msgid "Choose video file"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:233
+#: shortcodes/trx_basic/video.php:169
+msgid "Select video file"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:255
+#: shortcodes/trx_basic/call_to_action.php:407
+#: shortcodes/trx_basic/promo.php:223 shortcodes/trx_basic/promo.php:415
+msgid "Button 2 URL"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:256
+#: shortcodes/trx_basic/call_to_action.php:408
+#: shortcodes/trx_basic/promo.php:224 shortcodes/trx_basic/promo.php:416
+msgid "Link URL for the second button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:262
+#: shortcodes/trx_basic/call_to_action.php:416
+#: shortcodes/trx_basic/promo.php:233 shortcodes/trx_basic/promo.php:428
+msgid "Button 2 caption"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:263
+#: shortcodes/trx_basic/call_to_action.php:417
+#: shortcodes/trx_basic/promo.php:234 shortcodes/trx_basic/promo.php:429
+msgid "Caption for the second button at the bottom of the block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:291
+msgid "Call to Action"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:302
+#: shortcodes/trx_basic/promo.php:289
+msgid "Block's style"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:303
+#: shortcodes/trx_basic/promo.php:290
+msgid "Select style to display this block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:319
+msgid "Accent"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:336
+msgid "Image to display inside block"
+msgstr ""
+
+#: shortcodes/trx_basic/call_to_action.php:349
+msgid "Paste URL for video file to display inside block"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:138 shortcodes/trx_basic/columns.php:244
+#: shortcodes/trx_basic/skills.php:313 shortcodes/trx_basic/skills.php:557
+#: widgets/recent_news.php:549
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:139
+msgid "Insert up to 5 columns in your page (post)"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:144 shortcodes/trx_basic/columns.php:264
+#: shortcodes/trx_basic/columns.php:266
+msgid "Fluid columns"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:145 shortcodes/trx_basic/columns.php:265
+msgid ""
+"To squeeze the columns when reducing the size of the window (fluid=yes) or "
+"to rebuild them (fluid=no)"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:151 shortcodes/trx_basic/columns.php:278
+msgid "Margins between columns"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:152 shortcodes/trx_basic/columns.php:279
+msgid "Add margins between columns"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:170 shortcodes/trx_basic/columns.php:305
+msgid "Column"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:171 shortcodes/trx_basic/columns.php:306
+msgid "Column item"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:175 shortcodes/trx_basic/columns.php:317
+msgid "Merge columns"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:176 shortcodes/trx_basic/columns.php:318
+msgid "Count merged columns from current"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:182 shortcodes/trx_basic/columns.php:327
+msgid "Alignment text in the column"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:189 shortcodes/trx_basic/columns.php:334
+#: shortcodes/trx_basic/section.php:268 shortcodes/trx_basic/section.php:521
+msgid "Fore color"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:190 shortcodes/trx_basic/columns.php:335
+msgid "Any color for objects in this column"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:195 shortcodes/trx_basic/columns.php:342
+#: shortcodes/trx_basic/promo.php:148 shortcodes/trx_basic/promo.php:315
+#: shortcodes/trx_basic/section.php:275 shortcodes/trx_basic/section.php:530
+#: shortcodes/trx_basic/skills.php:346 shortcodes/trx_basic/skills.php:469
+#: shortcodes/trx_basic/skills.php:602 shortcodes/trx_basic/skills.php:769
+#: shortcodes/trx_optional/highlight.php:81
+#: shortcodes/trx_optional/highlight.php:150
+#: shortcodes/trx_optional/icon.php:210
+msgid "Background color"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:196 shortcodes/trx_basic/columns.php:343
+msgid "Any background color for this column"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:201 shortcodes/trx_basic/columns.php:350
+msgid "URL for background image file"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:202 shortcodes/trx_basic/columns.php:351
+#: shortcodes/trx_basic/section.php:282
+msgid ""
+"Select or upload image or write URL from other site for the background"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:208 shortcodes/trx_basic/columns.php:358
+#: shortcodes/trx_basic/columns.php:366 shortcodes/trx_basic/section.php:288
+#: shortcodes/trx_basic/section.php:548 shortcodes/trx_basic/section.php:557
+msgid "Tile background image"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:209 shortcodes/trx_basic/columns.php:359
+msgid "Do you want tile background image or image cover whole column?"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:218
+msgid "Column item content"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:219
+msgid "Current column item content"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:245
+msgid "Insert columns with margins"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:256 shortcodes/trx_basic/skills.php:585
+msgid "Columns count"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:257
+msgid "Number of the columns in the container."
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:271
+msgid "Equal height"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:272
+msgid "Make equal height for all columns in the row"
+msgstr ""
+
+#: shortcodes/trx_basic/columns.php:281
+msgid "Disable margins between columns"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:213
+msgid "Date"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:220
+msgid "Time"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:248
+msgid "Unknown admin email!"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:259
+#, php-format
+msgid "Site %s - Contact form message from %s"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:262 tools/emailer/emailer.php:242
+msgid "Subject:"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:263
+msgid "Message:"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:267
+#, php-format
+msgid "Site %s - Custom form data"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:279 tools/emailer/emailer.php:348
+msgid "Error send message!"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:312 shortcodes/trx_basic/form.php:464
+msgid "Form"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:313
+msgid "Insert form with specified style or with set of custom fields"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:337
+msgid ""
+"Select style of the form (if 'style' is not equal 'Custom Form' - all tabs "
+"'Field #' are ignored!)"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:352 shortcodes/trx_basic/form.php:494
+msgid "Action"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:353 shortcodes/trx_basic/form.php:495
+msgid ""
+"Contact form action (URL to handle form data). If empty - use internal "
+"action"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:359 shortcodes/trx_basic/form.php:503
+msgid "Page after submit"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:360 shortcodes/trx_basic/form.php:504
+msgid "Select page to redirect after form submit"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:366 shortcodes/trx_basic/form.php:512
+msgid "URL to redirect"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:367 shortcodes/trx_basic/form.php:513
+msgid ""
+"or specify any URL to redirect after form submit. If both fields are empty "
+"- no navigate from current page after submission"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:373 shortcodes/trx_basic/form.php:521
+msgid "Select form alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:392
+msgid "Field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:393
+msgid "Custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:397 shortcodes/trx_basic/form.php:580
+#: shortcodes/trx_optional/highlight.php:62
+#: shortcodes/trx_optional/highlight.php:128
+msgid "Type"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:398
+msgid "Type of the custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:405 shortcodes/trx_basic/form.php:589
+#: shortcodes/trx_basic/sidebar.php:69 shortcodes/trx_basic/sidebar.php:102
+msgid "Name"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:406 shortcodes/trx_basic/form.php:590
+msgid "Name of the custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:411 shortcodes/trx_basic/form.php:598
+msgid "Default value"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:412 shortcodes/trx_basic/form.php:599
+msgid "Default value of the custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:417 shortcodes/trx_basic/form.php:606
+msgid "Options"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:418 shortcodes/trx_basic/form.php:607
+msgid ""
+"Field options. For example: big=My daddy|middle=My brother|small=My little "
+"sister"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:426 shortcodes/trx_basic/form.php:618
+msgid "Label"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:427 shortcodes/trx_basic/form.php:619
+msgid "Label for the custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:432 shortcodes/trx_basic/form.php:627
+msgid "Label position"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:433 shortcodes/trx_basic/form.php:628
+msgid "Label position relative to the field"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:465
+msgid "Insert form with specefied style of with set of custom fields"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:477
+msgid ""
+"Select style of the form (if 'style' is not equal 'custom' - all tabs "
+"'Field NN' are ignored!"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:569
+msgid "Form item (custom field)"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:570
+msgid "Custom field for the contact form"
+msgstr ""
+
+#: shortcodes/trx_basic/form.php:581
+msgid "Select type of the custom field"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:138
+#: shortcodes/trx_basic/googlemap.php:232
+msgid "Google map"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:139
+msgid "Insert Google map with specified markers"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:144
+#: shortcodes/trx_basic/googlemap.php:244
+msgid "Zoom"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:145
+#: shortcodes/trx_basic/googlemap.php:245
+msgid "Map zoom factor"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:153
+msgid "Map style"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:154
+msgid "Select map style"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:179
+#: shortcodes/trx_basic/googlemap.php:180
+msgid "Google map marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:185
+#: shortcodes/trx_basic/googlemap.php:294
+msgid "Address"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:186
+#: shortcodes/trx_basic/googlemap.php:295
+msgid "Address of this marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:191
+#: shortcodes/trx_basic/googlemap.php:303
+msgid "Latitude and Longitude"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:192
+#: shortcodes/trx_basic/googlemap.php:304
+msgid "Comma separated marker's coorditanes (instead Address)"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:197
+#: shortcodes/trx_basic/googlemap.php:321
+msgid "URL for marker image file"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:198
+#: shortcodes/trx_basic/googlemap.php:322
+msgid ""
+"Select or upload image or write URL from other site for this marker. If "
+"empty - use default marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:205
+#: shortcodes/trx_basic/googlemap.php:313
+msgid "Title for this marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:211
+msgid "Description for this marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:233
+msgid "Insert Google map with desired address or coordinates"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:254
+msgid "Map custom style"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:283
+msgid "Googlemap marker"
+msgstr ""
+
+#: shortcodes/trx_basic/googlemap.php:284
+msgid "Insert new marker into Google map"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:82
+msgid "Insert image into your post (page)"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:87
+msgid "URL for image file"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:88
+msgid "Select or upload image or write URL from other site"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:98
+msgid "Image title (if need)"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:103
+msgid "Icon before title"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:104 shortcodes/trx_basic/image.php:209
+#: shortcodes/trx_optional/button.php:118
+#: shortcodes/trx_optional/button.php:249
+msgid "Select icon for the title from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:110
+msgid "Float image"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:111
+msgid "Float image to left or right side"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:118
+msgid "Image Shape"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:119
+msgid "Shape of the image: square (rectangle) or round"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:124 shortcodes/trx_basic/image.php:192
+#: shortcodes/trx_optional/button.php:99
+#: shortcodes/trx_optional/button.php:228
+#: shortcodes/trx_optional/icon.php:104 shortcodes/trx_optional/icon.php:225
+msgid "Square"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:125 shortcodes/trx_basic/image.php:193
+#: shortcodes/trx_optional/button.php:100
+#: shortcodes/trx_optional/button.php:229
+#: shortcodes/trx_optional/icon.php:103 shortcodes/trx_optional/icon.php:224
+msgid "Round"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:129 shortcodes/trx_basic/image.php:216
+#: shortcodes/trx_basic/list.php:322 shortcodes/trx_basic/list.php:332
+#: shortcodes/trx_basic/promo.php:242 shortcodes/trx_basic/promo.php:441
+#: shortcodes/trx_optional/button.php:282
+#: shortcodes/trx_optional/button.php:291
+#: shortcodes/trx_optional/button.php:300
+#: shortcodes/trx_optional/button.php:309
+#: shortcodes/trx_optional/tabs.php:214 shortcodes/trx_optional/tabs.php:340
+msgid "Link"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:130 shortcodes/trx_basic/image.php:217
+msgid "The link URL from the image"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:159
+msgid "Insert image"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:169
+msgid "Select image"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:170
+msgid "Select image from library"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:178
+msgid "Image alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:179
+msgid "Align image to left or right side"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:187
+msgid "Image shape"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:188
+msgid "Shape of the image: square or round"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:200
+msgid "Image's title"
+msgstr ""
+
+#: shortcodes/trx_basic/image.php:208
+msgid "Title's icon"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:91 shortcodes/trx_basic/line.php:173
+msgid "Line"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:92
+msgid "Insert Line into your post (page)"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:98 shortcodes/trx_basic/line.php:185
+msgid "Line style"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:105 shortcodes/trx_basic/line.php:194
+msgid "Image as separator"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:106 shortcodes/trx_basic/line.php:195
+msgid ""
+"Select or upload image or write URL from other site to use it as separator"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:115 shortcodes/trx_basic/line.php:206
+msgid "Repeat image"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:116 shortcodes/trx_basic/line.php:207
+msgid "To repeat an image or to show single picture"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:125 shortcodes/trx_basic/list.php:125
+#: shortcodes/trx_basic/list.php:179 shortcodes/trx_basic/list.php:249
+#: shortcodes/trx_basic/list.php:339 shortcodes/trx_basic/skills.php:463
+#: shortcodes/trx_basic/skills.php:594 shortcodes/trx_basic/skills.php:760
+#: shortcodes/trx_optional/highlight.php:74
+msgid "Color"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:126 shortcodes/trx_basic/line.php:218
+#: shortcodes/trx_basic/line.php:219
+msgid "Line color"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:135 shortcodes/trx_basic/line.php:231
+msgid ""
+"Title that is going to be placed in the center of the line (if not empty)"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:140 shortcodes/trx_basic/line.php:141
+#: shortcodes/trx_basic/line.php:239 shortcodes/trx_basic/line.php:240
+msgid "Title position"
+msgstr ""
+
+#: shortcodes/trx_basic/line.php:174
+msgid "Insert line (delimiter)"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:112 shortcodes/trx_basic/list.php:228
+msgid "List"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:113 shortcodes/trx_basic/list.php:229
+msgid "List items with specific bullets"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:118 shortcodes/trx_basic/list.php:240
+msgid "Bullet's style"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:119 shortcodes/trx_basic/list.php:241
+msgid "Bullet's style for each list item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:126 shortcodes/trx_basic/list.php:250
+msgid "List items color"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:131 shortcodes/trx_basic/list.php:185
+#: shortcodes/trx_basic/list.php:257
+msgid "List icon"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:132 shortcodes/trx_basic/list.php:258
+msgid "Select list icon from Fontello icons set (only for style=Iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:141 shortcodes/trx_basic/list.php:192
+#: shortcodes/trx_basic/list.php:270 shortcodes/trx_basic/list.php:356
+msgid "Icon color"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:142 shortcodes/trx_basic/list.php:271
+msgid "List icons color"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:160
+msgid "Item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:161 shortcodes/trx_basic/list.php:299
+msgid "List item with specific bullet"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:166
+msgid "List item content"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:167
+msgid "Current list item content"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:173 shortcodes/trx_basic/list.php:310
+msgid "List item title"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:174
+msgid "Current list item title (show it as tooltip)"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:180 shortcodes/trx_basic/list.php:340
+msgid "Text color for this item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:186 shortcodes/trx_basic/list.php:348
+msgid "Select list item icon from Fontello icons set (only for style=Iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:193 shortcodes/trx_basic/list.php:357
+msgid "Icon color for this item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:198 shortcodes/trx_basic/list.php:319
+#: shortcodes/trx_basic/price_block.php:101
+#: shortcodes/trx_basic/price_block.php:216
+#: shortcodes/trx_optional/button.php:147
+#: shortcodes/trx_optional/button.php:279
+#: shortcodes/trx_optional/icon.php:156 shortcodes/trx_optional/icon.php:262
+msgid "Link URL"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:199 shortcodes/trx_basic/list.php:320
+msgid "Link URL for the current list item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:205 shortcodes/trx_basic/list.php:329
+#: shortcodes/trx_optional/button.php:154
+#: shortcodes/trx_optional/button.php:288
+msgid "Link target"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:206 shortcodes/trx_basic/list.php:330
+msgid "Link target for the current list item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:298
+msgid "List item"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:311
+msgid "Title for the current list item (show it as tooltip)"
+msgstr ""
+
+#: shortcodes/trx_basic/list.php:347
+msgid "List item icon"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:82
+#: shortcodes/trx_basic/price_block.php:186
+msgid "Price block"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:83
+#: shortcodes/trx_basic/price_block.php:187
+msgid "Insert price block with title, price and description"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:88
+#: shortcodes/trx_basic/price_block.php:197
+msgid "Block style"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:89
+msgid "Select style for this price block"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:96
+#: shortcodes/trx_basic/price_block.php:208
+msgid "Block title"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:102
+#: shortcodes/trx_basic/price_block.php:217
+msgid "URL for link from button (at bottom of the block)"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:107
+#: shortcodes/trx_basic/price_block.php:224
+msgid "Link text"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:108
+#: shortcodes/trx_basic/price_block.php:225
+msgid ""
+"Text (caption) for the link button (at bottom of the block). If empty - "
+"button not showed"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:113
+#: shortcodes/trx_basic/price_block.php:232
+#: shortcodes/trx_optional/icon.php:72 shortcodes/trx_optional/icon.php:78
+#: shortcodes/trx_optional/icon.php:182 shortcodes/trx_optional/icon.php:193
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:114
+#: shortcodes/trx_basic/price_block.php:233
+msgid "Select icon from Fontello icons set (placed before/instead price)"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:120
+#: shortcodes/trx_basic/price_block.php:240
+#: shortcodes/trx_basic/price_block.php:243
+#: shortcodes/trx_basic/price_block.php:253
+#: shortcodes/trx_basic/price_block.php:263
+#: shortcodes/trx_optional/price.php:76 shortcodes/trx_optional/price.php:133
+msgid "Money"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:121
+#: shortcodes/trx_basic/price_block.php:241
+#: shortcodes/trx_optional/price.php:77 shortcodes/trx_optional/price.php:134
+msgid "Money value (dot or comma separated)"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:127
+#: shortcodes/trx_optional/price.php:82
+msgid "Currency"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:128
+#: shortcodes/trx_basic/price_block.php:251
+#: shortcodes/trx_optional/price.php:83 shortcodes/trx_optional/price.php:143
+msgid "Currency character"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:133
+#: shortcodes/trx_basic/price_block.php:260
+#: shortcodes/trx_optional/price.php:88 shortcodes/trx_optional/price.php:151
+msgid "Period"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:134
+#: shortcodes/trx_basic/price_block.php:261
+#: shortcodes/trx_optional/price.php:89 shortcodes/trx_optional/price.php:152
+msgid "Period text (if need). For example: monthly, daily, etc."
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:147
+#: shortcodes/trx_basic/price_block.php:280
+#: shortcodes/trx_optional/price.php:95 shortcodes/trx_optional/price.php:161
+msgid "Align price to left or right side"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:156
+#: shortcodes/trx_basic/price_block.php:289
+msgid "Description for this price block"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:198
+msgid "Select style of this price block"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:250
+#: shortcodes/trx_optional/price.php:142
+msgid "Currency symbol"
+msgstr ""
+
+#: shortcodes/trx_basic/price_block.php:272
+#: shortcodes/trx_basic/section.php:514 shortcodes/trx_basic/section.php:523
+#: shortcodes/trx_basic/section.php:532 shortcodes/trx_basic/section.php:541
+#: shortcodes/trx_basic/section.php:550 shortcodes/trx_basic/section.php:564
+#: shortcodes/trx_basic/section.php:573 shortcodes/trx_basic/section.php:582
+msgid "Colors and Images"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:35
+msgid "Read more"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:120 shortcodes/trx_basic/promo.php:278
+msgid "Promo"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:121
+msgid "Insert promo diagramm in your page (post)"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:133 shortcodes/trx_basic/promo.php:298
+msgid "Alignment of the promo block"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:134 shortcodes/trx_basic/promo.php:299
+msgid ""
+"Align whole promo block to left or right side of the page or parent "
+"container"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:141 shortcodes/trx_basic/promo.php:307
+#: shortcodes/trx_optional/tabs.php:195 shortcodes/trx_optional/tabs.php:315
+msgid "Image URL"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:142 shortcodes/trx_basic/promo.php:308
+#: shortcodes/trx_optional/tabs.php:316
+msgid "Select the promo image from the library for this section"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:149 shortcodes/trx_basic/promo.php:316
+msgid "Select background color for the promo"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:154 shortcodes/trx_basic/promo.php:323
+msgid "Promo icon"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:155
+msgid "Select icon from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:164 shortcodes/trx_basic/promo.php:335
+msgid "Content position"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:165 shortcodes/trx_basic/promo.php:336
+msgid "Select content position"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:172 shortcodes/trx_basic/promo.php:340
+msgid "Top Left"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:173 shortcodes/trx_basic/promo.php:341
+msgid "Top Right"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:174 shortcodes/trx_basic/promo.php:342
+msgid "Bottom Right"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:175 shortcodes/trx_basic/promo.php:343
+msgid "Bottom Left"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:243 shortcodes/trx_basic/promo.php:442
+msgid "Link of the promo block"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:249 shortcodes/trx_basic/promo.php:449
+msgid "Select color scheme for the section with text"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:279
+msgid "Insert promo block"
+msgstr ""
+
+#: shortcodes/trx_basic/promo.php:324
+msgid "Select promo icon from Fontello icons set (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:66 shortcodes/trx_basic/quote.php:113
+msgid "Quote"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:67 shortcodes/trx_basic/quote.php:114
+msgid "Quote text"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:72 shortcodes/trx_basic/quote.php:124
+msgid "Quote cite"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:73
+msgid "URL for quote cite"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:78 shortcodes/trx_basic/quote.php:132
+msgid "Title (author)"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:79 shortcodes/trx_basic/quote.php:133
+msgid "Quote title (author name)"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:84 shortcodes/trx_basic/quote.php:85
+#: shortcodes/trx_basic/quote.php:141 shortcodes/trx_basic/quote.php:142
+msgid "Quote content"
+msgstr ""
+
+#: shortcodes/trx_basic/quote.php:125
+msgid "URL for the quote cite link"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:165 shortcodes/trx_basic/section.php:383
+msgid "Block container"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:166 shortcodes/trx_basic/section.php:384
+msgid "Container for any block ([trx_section] analog - to enable nesting)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:201 shortcodes/trx_basic/section.php:394
+msgid "Dedicated"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:202 shortcodes/trx_basic/section.php:395
+msgid ""
+"Use this block as dedicated content - show it before post title on single "
+"page"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:216 shortcodes/trx_basic/section.php:411
+msgid "Columns emulation"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:217 shortcodes/trx_basic/section.php:412
+msgid "Select width for columns emulation"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:223 shortcodes/trx_basic/section.php:466
+msgid "Use pan effect"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:224 shortcodes/trx_basic/section.php:467
+msgid "Use pan effect to show section content"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:232 shortcodes/trx_basic/section.php:476
+msgid "Use scroller to show section content"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:239
+msgid "Scroll and Pan direction"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:240
+msgid "Scroll and Pan direction (if Use scroller = yes or Pan = yes)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:251 shortcodes/trx_basic/section.php:499
+msgid "Scroll controls"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:252 shortcodes/trx_basic/section.php:500
+msgid "Show scroll controls (if Use scroller = yes)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:269 shortcodes/trx_basic/section.php:522
+msgid "Any color for objects in this section"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:276 shortcodes/trx_basic/section.php:531
+msgid "Any background color for this section"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:281 shortcodes/trx_basic/section.php:539
+msgid "Background image URL"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:289 shortcodes/trx_basic/section.php:549
+msgid "Do you want tile background image or image cover whole block?"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:298 shortcodes/trx_basic/section.php:562
+msgid "Overlay"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:299 shortcodes/trx_basic/section.php:563
+msgid "Overlay color opacity (from 0.0 to 1.0)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:307 shortcodes/trx_basic/section.php:571
+msgid "Texture"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:308
+msgid "Predefined texture style from 1 to 11. 0 - without texture."
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:316 shortcodes/trx_basic/section.php:580
+msgid "Paddings around content"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:317 shortcodes/trx_basic/section.php:581
+msgid ""
+"Add paddings around content in this section (only if bg_color or bg_image "
+"enabled)."
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:329 shortcodes/trx_basic/section.php:594
+#: shortcodes/trx_basic/title.php:316
+#: shortcodes/trx_optional/highlight.php:87
+#: shortcodes/trx_optional/highlight.php:158
+#: shortcodes/trx_optional/icon.php:118 shortcodes/trx_optional/icon.php:231
+msgid "Font size"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:330 shortcodes/trx_basic/section.php:595
+msgid ""
+"Font size of the text (default - in pixels, allows any CSS units of "
+"measure)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:335 shortcodes/trx_basic/section.php:602
+#: shortcodes/trx_basic/title.php:149 shortcodes/trx_basic/title.php:324
+#: shortcodes/trx_optional/icon.php:129 shortcodes/trx_optional/icon.php:239
+msgid "Font weight"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:336 shortcodes/trx_basic/section.php:603
+msgid "Font weight of the text"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:341 shortcodes/trx_basic/section.php:607
+#: shortcodes/trx_basic/title.php:156 shortcodes/trx_basic/title.php:329
+#: shortcodes/trx_optional/icon.php:138 shortcodes/trx_optional/icon.php:244
+msgid "Thin (100)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:342 shortcodes/trx_basic/section.php:608
+#: shortcodes/trx_basic/title.php:157 shortcodes/trx_basic/title.php:330
+#: shortcodes/trx_optional/icon.php:139 shortcodes/trx_optional/icon.php:245
+msgid "Light (300)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:343 shortcodes/trx_basic/section.php:609
+#: shortcodes/trx_basic/title.php:158 shortcodes/trx_basic/title.php:331
+#: shortcodes/trx_optional/icon.php:140 shortcodes/trx_optional/icon.php:246
+msgid "Normal (400)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:344 shortcodes/trx_basic/section.php:610
+#: shortcodes/trx_basic/title.php:160 shortcodes/trx_basic/title.php:333
+#: shortcodes/trx_optional/icon.php:141 shortcodes/trx_optional/icon.php:247
+msgid "Bold (700)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:348
+msgid "Container content"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:349
+msgid "Content for section container"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:368 shortcodes/trx_basic/section.php:632
+msgid "Section container"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:369 shortcodes/trx_basic/section.php:633
+msgid "Container for any section ([trx_block] analog - to enable nesting)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:398
+msgid "Use as dedicated content"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:470 shortcodes/trx_basic/section.php:480
+msgid "Content scroller"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:485
+msgid "Scroll direction"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:486
+msgid "Scroll direction (if Use scroller = yes)"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:540
+msgid "Select background image from library for this section"
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:572
+msgid "Texture style from 1 to 11. Empty or 0 - without texture."
+msgstr ""
+
+#: shortcodes/trx_basic/section.php:589
+msgid "Disable padding around content in this block"
+msgstr ""
+
+#: shortcodes/trx_basic/sidebar.php:63 shortcodes/trx_basic/sidebar.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: shortcodes/trx_basic/sidebar.php:64 shortcodes/trx_basic/sidebar.php:92
+msgid "Insert sidebar"
+msgstr ""
+
+#: shortcodes/trx_basic/sidebar.php:70 shortcodes/trx_basic/sidebar.php:103
+msgid "Sidebar name or id"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:35 shortcodes/trx_basic/skills.php:277
+#: shortcodes/trx_basic/skills.php:512
+msgid "Skills"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:278
+msgid "Insert skills diagramm in your page (post)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:283 shortcodes/trx_basic/skills.php:524
+msgid "Max value"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:284 shortcodes/trx_basic/skills.php:525
+msgid "Max value for skills items"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:290 shortcodes/trx_basic/skills.php:533
+msgid "Skills type"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:291 shortcodes/trx_basic/skills.php:534
+msgid "Select type of skills block"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:296 shortcodes/trx_basic/skills.php:538
+msgid "Bar"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:297 shortcodes/trx_basic/skills.php:539
+msgid "Pie chart"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:298 shortcodes/trx_basic/skills.php:540
+#: shortcodes/trx_optional/toggles.php:117
+#: shortcodes/trx_optional/toggles.php:216
+msgid "Counter"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:299 shortcodes/trx_basic/skills.php:541
+msgid "Arc"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:303 shortcodes/trx_basic/skills.php:547
+msgid "Skills layout"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:304 shortcodes/trx_basic/skills.php:548
+msgid "Select layout of skills block"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:312 shortcodes/trx_basic/skills.php:556
+msgid "Rows"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:317 shortcodes/trx_basic/skills.php:563
+msgid "Direction"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:318 shortcodes/trx_basic/skills.php:564
+msgid "Select direction of skills block"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:328 shortcodes/trx_basic/skills.php:572
+msgid "Counters style"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:329 shortcodes/trx_basic/skills.php:573
+msgid "Select style of skills items (only for type=counter)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:339
+msgid "Skills items color"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:340 shortcodes/trx_basic/skills.php:595
+msgid "Color for all skills items"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:347 shortcodes/trx_basic/skills.php:603
+msgid "Background color for all skills items (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:355 shortcodes/trx_basic/skills.php:475
+#: shortcodes/trx_basic/skills.php:614 shortcodes/trx_basic/skills.php:778
+msgid "Border color"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:356 shortcodes/trx_basic/skills.php:615
+msgid "Border color for all skills items (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:364
+msgid "Align skills block"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:365 shortcodes/trx_basic/skills.php:627
+msgid "Align skills block to left or right side"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:372
+msgid "Arc Caption"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:373 shortcodes/trx_basic/skills.php:635
+msgid "Arc caption - text in the center of the diagram"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:381 shortcodes/trx_basic/skills.php:646
+msgid "Pie compact"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:382 shortcodes/trx_basic/skills.php:647
+msgid "Show all skills in one diagram or as separate diagrams"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:391 shortcodes/trx_basic/skills.php:658
+msgid "Pie cutout"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:392 shortcodes/trx_basic/skills.php:659
+msgid "Pie cutout (0-99). 0 - without cutout, 99 - max cutout"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:444 shortcodes/trx_basic/skills.php:730
+msgid "Skill"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:445 shortcodes/trx_basic/skills.php:731
+msgid "Skills item"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:450
+msgid "Current skills item title"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:455 shortcodes/trx_basic/skills.php:751
+msgid "Value"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:456
+msgid "Current skills level"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:464
+msgid "Current skills item color"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:470
+msgid "Current skills item background color (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:476
+msgid "Current skills item border color (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:481 shortcodes/trx_basic/skills.php:786
+msgid "Counter style"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:482 shortcodes/trx_basic/skills.php:787
+msgid "Select style for the current skills item (only for type=counter)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:488 shortcodes/trx_basic/skills.php:795
+msgid "Counter icon"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:489
+msgid ""
+"Select icon from Fontello icons set, placed above counter (only for "
+"type=counter)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:513
+msgid "Insert skills diagramm"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:586
+msgid "Skills columns count (required)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:634
+msgid "Arc caption"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:653
+msgid "Show separate skills"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:743
+msgid "Title for the current skills item"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:752
+msgid "Value for the current skills item"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:761
+msgid "Color for current skills item"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:770
+msgid "Background color for current skills item (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:779
+msgid "Border color for current skills item (only for type=pie)"
+msgstr ""
+
+#: shortcodes/trx_basic/skills.php:796
+msgid ""
+"Select icon from Fontello icons set, placed before counter (only for "
+"type=counter)"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:374 shortcodes/trx_basic/slider.php:640
+msgid "Slider"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:375
+msgid "Insert slider into your post (page)"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:380
+msgid "Slider engine"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:381 shortcodes/trx_basic/slider.php:653
+msgid ""
+"Select engine for slider. Attention! Swiper is built-in engine, all other "
+"engines appears only if corresponding plugings are installed"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:387 shortcodes/trx_basic/slider.php:661
+msgid "Float slider"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:388 shortcodes/trx_basic/slider.php:662
+msgid "Float slider to left or right side"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:396 shortcodes/trx_basic/slider.php:669
+#: shortcodes/trx_basic/slider.php:672
+msgid "Custom slides"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:397 shortcodes/trx_basic/slider.php:670
+msgid ""
+"Make custom slides from inner shortcodes (prepare it on tabs) or prepare "
+"slides from posts thumbnails"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:406 shortcodes/trx_basic/slider.php:679
+msgid "Revolution slider alias"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:407 shortcodes/trx_basic/slider.php:680
+msgid "Select Revolution slider to display"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:417
+msgid "Swiper: Category list"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:418
+msgid ""
+"Select category to show post's images. If empty - select posts from any "
+"category or from IDs list"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:430 shortcodes/trx_basic/slider.php:704
+msgid "Swiper: Number of posts"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:441 shortcodes/trx_basic/slider.php:716
+msgid "Swiper: Offset before select posts"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:451
+msgid "Swiper: Post order by"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:461 shortcodes/trx_basic/slider.php:740
+msgid "Swiper: Post order"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:472 shortcodes/trx_basic/slider.php:752
+msgid "Swiper: Post IDs list"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:481 shortcodes/trx_basic/slider.php:764
+msgid "Swiper: Show slider controls"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:482 shortcodes/trx_basic/slider.php:765
+msgid "Show arrows inside slider"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:492 shortcodes/trx_basic/slider.php:777
+msgid "Swiper: Show slider pagination"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:493
+msgid "Show bullets for switch slides"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:501 shortcodes/trx_basic/slider.php:788
+msgid "Dots"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:502 shortcodes/trx_basic/slider.php:789
+msgid "Side Titles"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:503 shortcodes/trx_basic/slider.php:790
+msgid "Over Titles"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:507 shortcodes/trx_basic/slider.php:796
+msgid "Swiper: Show titles section"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:508 shortcodes/trx_basic/slider.php:797
+msgid "Show section with post's title and short post's description"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:516 shortcodes/trx_basic/slider.php:805
+msgid "Not show"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:517 shortcodes/trx_basic/slider.php:806
+msgid "Show/Hide info"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:518 shortcodes/trx_basic/slider.php:807
+msgid "Fixed info"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:522 shortcodes/trx_basic/slider.php:813
+msgid "Swiper: Post descriptions"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:526 shortcodes/trx_basic/slider.php:814
+msgid "Show post's excerpt max length (characters)"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:534 shortcodes/trx_basic/slider.php:826
+msgid "Swiper: Post's title as link"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:535 shortcodes/trx_basic/slider.php:827
+msgid "Make links from post's titles"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:544 shortcodes/trx_basic/slider.php:839
+msgid "Swiper: Crop images"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:545 shortcodes/trx_basic/slider.php:840
+msgid "Crop images in each slide or live it unchanged"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:554 shortcodes/trx_basic/slider.php:852
+msgid "Swiper: Autoheight"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:555 shortcodes/trx_basic/slider.php:853
+msgid "Change whole slider's height (make it equal current slide's height)"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:564 shortcodes/trx_basic/slider.php:865
+msgid "Swiper: Slides per view"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:565 shortcodes/trx_basic/slider.php:866
+msgid "Slides per view showed in this slider"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:576 shortcodes/trx_basic/slider.php:879
+msgid "Swiper: Space between slides"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:577 shortcodes/trx_basic/slider.php:880
+msgid "Size of space (in px) between slides"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:588 shortcodes/trx_basic/slider.php:893
+msgid "Swiper: Slides change interval"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:589 shortcodes/trx_basic/slider.php:894
+msgid "Slides change interval (in milliseconds: 1000ms = 1s)"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:611 shortcodes/trx_basic/slider.php:920
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:612
+msgid "Slider item"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:616 shortcodes/trx_basic/slider.php:932
+msgid "URL (source) for image file"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:617 shortcodes/trx_basic/slider.php:933
+msgid ""
+"Select or upload image or write URL from other site for the current slide"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:641
+msgid "Insert slider"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:652
+msgid "Engine"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:687
+msgid "- Select slider -"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:728
+msgid "Swiper: Post sorting"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:778
+msgid "Show bullets or titles to switch slides"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:834
+msgid "Titles as a links"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:847
+msgid "Crop images"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:860
+msgid "Autoheight"
+msgstr ""
+
+#: shortcodes/trx_basic/slider.php:921
+msgid "Slider item - single slide"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:116 shortcodes/trx_basic/socials.php:210
+msgid "Social icons"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:117
+msgid "List of social icons (with hovers)"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:122 shortcodes/trx_basic/socials.php:222
+msgid "Icon's type"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:123 shortcodes/trx_basic/socials.php:223
+msgid "Type of the icons - images or font icons"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:126 shortcodes/trx_basic/socials.php:227
+msgid "Icons"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:127 shortcodes/trx_basic/socials.php:228
+msgid "Images"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:132 shortcodes/trx_basic/socials.php:234
+msgid "Icon's size"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:133 shortcodes/trx_basic/socials.php:235
+msgid "Size of the icons"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:139 shortcodes/trx_basic/socials.php:243
+msgid "Icon's shape"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:140 shortcodes/trx_basic/socials.php:244
+msgid "Shape of the icons"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:146 shortcodes/trx_basic/socials.php:252
+msgid "Manual socials list"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:147 shortcodes/trx_basic/socials.php:253
+msgid ""
+"Custom list of social networks. For example: twitter=http://twitter.com/"
+"my_profile|facebook=http://facebook.com/my_profile. If empty - use socials "
+"from Theme options."
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:153 shortcodes/trx_basic/socials.php:260
+#: shortcodes/trx_basic/socials.php:263
+msgid "Custom socials"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:154 shortcodes/trx_basic/socials.php:261
+msgid "Make custom icons from inner shortcodes (prepare it on tabs)"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:171 shortcodes/trx_basic/socials.php:280
+msgid "Custom social item"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:172 shortcodes/trx_basic/socials.php:281
+msgid "Custom social item: name, profile url and icon url"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:177 shortcodes/trx_basic/socials.php:292
+msgid "Social name"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:178 shortcodes/trx_basic/socials.php:293
+msgid "Name (slug) of the social network (twitter, facebook, linkedin, etc.)"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:183 shortcodes/trx_basic/socials.php:300
+msgid "Your profile URL"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:184 shortcodes/trx_basic/socials.php:301
+msgid "URL of your profile in specified social network"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:189 shortcodes/trx_basic/socials.php:308
+msgid "URL (source) for icon file"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:190 shortcodes/trx_basic/socials.php:309
+msgid ""
+"Select or upload image or write URL from other site for the current social "
+"icon"
+msgstr ""
+
+#: shortcodes/trx_basic/socials.php:211
+msgid "Custom social icons"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:67 shortcodes/trx_basic/table.php:111
+msgid "Table"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:68
+msgid "Insert a table into post (page). "
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:73
+msgid "Content alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:74 shortcodes/trx_basic/table.php:123
+msgid "Select alignment for each table cell"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:81 shortcodes/trx_basic/table.php:131
+msgid "Table content"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:82 shortcodes/trx_basic/table.php:132
+msgid "Content, created with any table-generator"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:112
+msgid "Insert a table"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:122
+msgid "Cells content alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/table.php:134
+msgid ""
+"Paste here table content, generated on one of many public internet "
+"resources, for example: http://www.impressivewebs.com/html-table-code-"
+"generator/ or http://html-tables.com/"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:96 shortcodes/trx_basic/title.php:259
+msgid "Create header tag (1-6 level) with many styles"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:101 shortcodes/trx_basic/title.php:102
+#: shortcodes/trx_basic/title.php:269 shortcodes/trx_basic/title.php:270
+msgid "Title content"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:108 shortcodes/trx_basic/title.php:277
+msgid "Title type"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:109 shortcodes/trx_basic/title.php:278
+msgid "Title type (header level)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:114 shortcodes/trx_basic/title.php:282
+msgid "Header 1"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:115 shortcodes/trx_basic/title.php:283
+msgid "Header 2"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:116 shortcodes/trx_basic/title.php:284
+msgid "Header 3"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:117 shortcodes/trx_basic/title.php:285
+msgid "Header 4"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:118 shortcodes/trx_basic/title.php:286
+msgid "Header 5"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:119 shortcodes/trx_basic/title.php:287
+msgid "Header 6"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:123 shortcodes/trx_basic/title.php:124
+#: shortcodes/trx_basic/title.php:293
+msgid "Title style"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:128 shortcodes/trx_basic/title.php:298
+msgid "Regular"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:129 shortcodes/trx_basic/title.php:299
+msgid "Underline"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:130 shortcodes/trx_basic/title.php:300
+msgid "Divider"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:131 shortcodes/trx_basic/title.php:301
+msgid "With icon (image)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:136 shortcodes/trx_basic/title.php:308
+msgid "Title text alignment"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:143
+msgid "Font_size"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:144 shortcodes/trx_basic/title.php:317
+msgid "Custom font size. If empty - use theme default"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:150 shortcodes/trx_basic/title.php:325
+msgid "Custom font weight. If empty or inherit - use theme default"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:159 shortcodes/trx_basic/title.php:332
+msgid "Semibold (600)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:161 shortcodes/trx_basic/title.php:334
+msgid "Black (900)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:165 shortcodes/trx_basic/title.php:341
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:166 shortcodes/trx_basic/title.php:342
+msgid "Transform text in uppercase"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:173 shortcodes/trx_basic/title.php:350
+msgid "Title color"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:174 shortcodes/trx_basic/title.php:351
+msgid "Select color for the title"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:179 shortcodes/trx_basic/title.php:358
+msgid "Title font icon"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:180 shortcodes/trx_basic/title.php:359
+msgid ""
+"Select font icon for the title from Fontello icons set (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:189 shortcodes/trx_basic/title.php:371
+msgid "or image icon"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:190 shortcodes/trx_basic/title.php:372
+msgid "Select image icon for the title instead icon above (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:200
+msgid "or URL for image file"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:201 shortcodes/trx_basic/title.php:385
+msgid "Select or upload image or write URL from other site (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:210 shortcodes/trx_basic/title.php:393
+msgid "Image (picture) size"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:211
+msgid "Select image (picture) size (if style='iconed')"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:218 shortcodes/trx_basic/title.php:398
+#: shortcodes/trx_optional/button.php:110
+#: shortcodes/trx_optional/button.php:240
+msgid "Small"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:219 shortcodes/trx_basic/title.php:399
+#: shortcodes/trx_optional/button.php:111
+#: shortcodes/trx_optional/button.php:241
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:220 shortcodes/trx_basic/title.php:400
+#: shortcodes/trx_optional/button.php:112
+#: shortcodes/trx_optional/button.php:242
+msgid "Large"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:224 shortcodes/trx_basic/title.php:406
+msgid "Icon (image) position"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:225 shortcodes/trx_basic/title.php:407
+msgid "Select icon (image) position (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:232 shortcodes/trx_basic/title.php:412
+msgid "Top"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:294
+msgid "Title style: only text (regular) or with icon/image (iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:345
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:361 shortcodes/trx_basic/title.php:374
+#: shortcodes/trx_basic/title.php:386 shortcodes/trx_basic/title.php:395
+#: shortcodes/trx_basic/title.php:408
+msgid "Icon &amp; Image"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:384
+msgid "or select uploaded image"
+msgstr ""
+
+#: shortcodes/trx_basic/title.php:394
+msgid "Select image (picture) size (if style=iconed)"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:150 shortcodes/trx_basic/video.php:278
+msgid "Video"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:151 shortcodes/trx_basic/video.php:279
+msgid "Insert video player"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:157
+msgid ""
+"Select video from media library or paste URL for video file from other site"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:178 shortcodes/trx_basic/video.php:298
+msgid "Ratio"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:179
+msgid "Ratio of the video"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:184 shortcodes/trx_basic/video.php:302
+msgid "16:9"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:185 shortcodes/trx_basic/video.php:303
+msgid "4:3"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:189 shortcodes/trx_basic/video.php:309
+msgid "Autoplay video"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:190 shortcodes/trx_basic/video.php:310
+msgid "Autoplay video on page load"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:205 shortcodes/trx_basic/video.php:327
+msgid "Select or upload image or write URL from other site for video preview"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:211 shortcodes/trx_basic/video.php:334
+msgid "Background image"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:212 shortcodes/trx_basic/video.php:335
+msgid ""
+"Select or upload image or write URL from other site for video background. "
+"Attention! If you use background image - specify paddings below from "
+"background margins to video block in percents!"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:219 shortcodes/trx_basic/video.php:343
+msgid "Top offset"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:220
+msgid ""
+"Top offset (padding) inside background image to video block (in percent). "
+"For example: 3%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:228 shortcodes/trx_basic/video.php:352
+msgid "Bottom offset"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:229
+msgid ""
+"Bottom offset (padding) inside background image to video block (in "
+"percent). For example: 3%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:237 shortcodes/trx_basic/video.php:361
+msgid "Left offset"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:238
+msgid ""
+"Left offset (padding) inside background image to video block (in percent). "
+"For example: 20%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:246 shortcodes/trx_basic/video.php:370
+msgid "Right offset"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:247
+msgid ""
+"Right offset (padding) inside background image to video block (in "
+"percent). For example: 12%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:290
+msgid "Paste URL for video file"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:299
+msgid "Select ratio for display video"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:336 shortcodes/trx_basic/video.php:345
+#: shortcodes/trx_basic/video.php:354 shortcodes/trx_basic/video.php:363
+#: shortcodes/trx_basic/video.php:372
+msgid "Background"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:344
+msgid ""
+"Top offset (padding) from background image to video block (in percent). "
+"For example: 3%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:353
+msgid ""
+"Bottom offset (padding) from background image to video block (in percent). "
+"For example: 3%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:362
+msgid ""
+"Left offset (padding) from background image to video block (in percent). "
+"For example: 20%"
+msgstr ""
+
+#: shortcodes/trx_basic/video.php:371
+msgid ""
+"Right offset (padding) from background image to video block (in percent). "
+"For example: 12%"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:82
+#: shortcodes/trx_optional/button.php:205
+msgid "Button"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:83
+#: shortcodes/trx_optional/button.php:206
+msgid "Button with link"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:88
+#: shortcodes/trx_optional/button.php:216
+msgid "Caption"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:94
+#: shortcodes/trx_optional/button.php:224
+msgid "Button's shape"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:95
+#: shortcodes/trx_optional/button.php:225
+msgid "Select button's shape"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:105
+#: shortcodes/trx_optional/button.php:235
+msgid "Button's size"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:106
+#: shortcodes/trx_optional/button.php:236
+msgid "Select button's size"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:117
+#: shortcodes/trx_optional/button.php:248
+msgid "Button's icon"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:124
+#: shortcodes/trx_optional/button.php:256
+msgid "Button's backcolor"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:125
+#: shortcodes/trx_optional/button.php:257
+msgid "Any color for button's background"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:139
+#: shortcodes/trx_optional/button.php:271
+msgid "Button's alignment"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:140
+#: shortcodes/trx_optional/button.php:272
+msgid "Align button to left, center or right"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:148
+msgid "URL for link on button click"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:155
+msgid "Target for link on button click"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:163
+#: shortcodes/trx_optional/button.php:297
+msgid "Open link in popup"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:164
+#: shortcodes/trx_optional/button.php:298
+msgid "Open link target in popup window"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:173
+#: shortcodes/trx_optional/button.php:306
+msgid "Rel attribute"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:174
+msgid "Rel attribute for button's link (if need)"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:280
+msgid "URL for the link on button click"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:289
+msgid "Target for the link on button click"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:301
+msgid "Open in popup"
+msgstr ""
+
+#: shortcodes/trx_optional/button.php:307
+msgid "Rel attribute for the button's link (if need"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:66
+#: shortcodes/trx_optional/dropcaps.php:110
+msgid "Dropcaps"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:67
+msgid "Make first letter as dropcaps"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:73
+#: shortcodes/trx_optional/dropcaps.php:122
+msgid "Dropcaps style"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:79
+msgid "Paragraph content"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:80
+msgid "Paragraph with dropcaps content"
+msgstr ""
+
+#: shortcodes/trx_optional/dropcaps.php:111
+msgid "Make first letter of the text as dropcaps"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:51
+msgid "Email"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:52
+msgid "Submit"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:52
+msgid "E-mailer subscription"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:69
+#: shortcodes/trx_optional/emailer.php:121
+msgid "E-mail collector"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:70
+msgid "Collect the e-mail address into specified group"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:76
+#: shortcodes/trx_optional/emailer.php:133
+msgid "The name of group to collect e-mail address"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:81
+msgid "Open"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:82
+#: shortcodes/trx_optional/emailer.php:142
+msgid "Initially open the input field on show object"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:90
+msgid "Align object to left, center or right"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:122
+msgid "Collect e-mails into specified group"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:141
+#: shortcodes/trx_optional/search.php:103
+#: shortcodes/trx_optional/search.php:167
+msgid "Opened"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:144
+msgid "Initially opened"
+msgstr ""
+
+#: shortcodes/trx_optional/emailer.php:150
+msgid "Align field to left, center or right"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:39 shortcodes/trx_optional/gap.php:65
+msgid "Gap"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:40
+msgid ""
+"Insert gap (fullwidth area) in the post content. Attention! Use the gap "
+"only in the posts (pages) without left or right sidebar"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:45
+msgid "Gap content"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:46
+msgid "Gap inner content"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:66
+msgid "Insert gap (fullwidth area) in the post content"
+msgstr ""
+
+#: shortcodes/trx_optional/gap.php:67
+msgid "Structure"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:56
+#: shortcodes/trx_optional/highlight.php:117
+#: shortcodes/trx_optional/highlight.php:166
+msgid "Highlight text"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:57
+#: shortcodes/trx_optional/highlight.php:118
+msgid "Highlight text with selected color, background color and other styles"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:63
+#: shortcodes/trx_optional/highlight.php:129
+msgid "Highlight type"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:68
+#: shortcodes/trx_optional/highlight.php:134
+msgid "Type 1"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:69
+#: shortcodes/trx_optional/highlight.php:135
+msgid "Type 2"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:70
+#: shortcodes/trx_optional/highlight.php:136
+msgid "Type 3"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:75
+#: shortcodes/trx_optional/highlight.php:143
+msgid "Color for the highlighted text"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:82
+#: shortcodes/trx_optional/highlight.php:151
+msgid "Background color for the highlighted text"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:88
+msgid ""
+"Font size of the highlighted text (default - in pixels, allows any CSS "
+"units of measure)"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:93
+msgid "Highlighting content"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:94
+#: shortcodes/trx_optional/highlight.php:167
+msgid "Content for highlight"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:142
+#: shortcodes/trx_optional/icon.php:202
+msgid "Text color"
+msgstr ""
+
+#: shortcodes/trx_optional/highlight.php:159
+msgid ""
+"Font size for the highlighted text (default - in pixels, allows any CSS "
+"units of measure)"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:73
+msgid "Insert icon"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:79
+msgid "Select font icon from the Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:85 shortcodes/trx_optional/icon.php:86
+#: shortcodes/trx_optional/icon.php:203
+msgid "Icon's color"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:94 shortcodes/trx_optional/icon.php:218
+msgid "Background shape"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:95 shortcodes/trx_optional/icon.php:219
+msgid "Shape of the icon background"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:108 shortcodes/trx_optional/icon.php:109
+msgid "Icon's background color"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:119 shortcodes/trx_optional/icon.php:232
+msgid "Icon's font size"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:130
+msgid "Icon font weight"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:146
+msgid "Icon text alignment"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:157 shortcodes/trx_optional/icon.php:263
+msgid "Link URL from this icon (if not empty)"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:183
+msgid "Insert the icon"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:194
+msgid "Select icon class from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:211
+msgid "Background color for the icon"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:240
+msgid "Icon's font weight"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:253
+msgid "Icon's alignment"
+msgstr ""
+
+#: shortcodes/trx_optional/icon.php:254
+msgid "Align icon to left, center or right"
+msgstr ""
+
+#: shortcodes/trx_optional/price.php:70 shortcodes/trx_optional/price.php:122
+msgid "Price"
+msgstr ""
+
+#: shortcodes/trx_optional/price.php:71 shortcodes/trx_optional/price.php:123
+msgid "Insert price with decoration"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:27
+#: shortcodes/trx_optional/search.php:85
+msgid "Search"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:64
+msgid "Open search"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:64
+msgid "Start search"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:86
+msgid "Show search form"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:92
+#: shortcodes/trx_optional/search.php:155
+msgid "Select style to display search field"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:98
+#: shortcodes/trx_optional/search.php:162
+msgid "State"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:99
+#: shortcodes/trx_optional/search.php:163
+msgid "Select search field initial state"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:102
+#: shortcodes/trx_optional/search.php:166
+msgid "Fixed"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:104
+#: shortcodes/trx_optional/search.php:168
+msgid "Closed"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:110
+#: shortcodes/trx_optional/search.php:175
+msgid "Title (placeholder) for the search field"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:111
+#: shortcodes/trx_optional/search.php:178
+msgid "Search &hellip;"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:115
+#: shortcodes/trx_optional/search.php:183
+msgid "AJAX"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:116
+#: shortcodes/trx_optional/search.php:184
+msgid "Search via AJAX or reload page"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:143
+msgid "Search form"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:144
+msgid "Insert search form"
+msgstr ""
+
+#: shortcodes/trx_optional/search.php:186
+msgid "Use AJAX search"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:158 shortcodes/trx_optional/tabs.php:239
+#: shortcodes/trx_optional/tabs.php:240
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:159
+msgid "Insert tabs in your page (post)"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:164 shortcodes/trx_optional/tabs.php:251
+msgid "Initially opened tab"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:165 shortcodes/trx_optional/tabs.php:252
+msgid "Number of initially opened tab"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:184
+msgid "Tab"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:185 shortcodes/trx_optional/tabs.php:285
+msgid "Tab item"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:189 shortcodes/trx_optional/tabs.php:297
+msgid "Tab name"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:190
+msgid "Current tab name"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:196
+msgid "Select the tab image from the library for this section"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:215 shortcodes/trx_optional/tabs.php:341
+msgid "Link of the block"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:269
+msgid "Tab 1"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:270
+msgid "Tab 2"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:286
+msgid "Single tab item"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:298
+msgid "Name for current tab"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:306
+msgid "Tab ID"
+msgstr ""
+
+#: shortcodes/trx_optional/tabs.php:307
+msgid "ID for current tab (required). Please, start it from letter."
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:111
+#: shortcodes/trx_optional/toggles.php:204
+msgid "Toggles"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:112
+#: shortcodes/trx_optional/toggles.php:205
+msgid "Toggles items"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:118
+#: shortcodes/trx_optional/toggles.php:217
+msgid "Display counter before each toggles title"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:124
+#: shortcodes/trx_optional/toggles.php:166
+#: shortcodes/trx_optional/toggles.php:224
+#: shortcodes/trx_optional/toggles.php:291
+msgid "Icon while closed"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:125
+#: shortcodes/trx_optional/toggles.php:167
+#: shortcodes/trx_optional/toggles.php:225
+#: shortcodes/trx_optional/toggles.php:292
+msgid "Select icon for the closed toggles item from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:131
+#: shortcodes/trx_optional/toggles.php:173
+#: shortcodes/trx_optional/toggles.php:232
+#: shortcodes/trx_optional/toggles.php:299
+msgid "Icon while opened"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:132
+#: shortcodes/trx_optional/toggles.php:174
+#: shortcodes/trx_optional/toggles.php:233
+#: shortcodes/trx_optional/toggles.php:300
+msgid "Select icon for the opened toggles item from Fontello icons set"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:148
+#: shortcodes/trx_optional/toggles.php:149
+#: shortcodes/trx_optional/toggles.php:263
+msgid "Toggles item"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:153
+msgid "Toggles item title"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:154
+#: shortcodes/trx_optional/toggles.php:275
+msgid "Title for current toggles item"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:159
+#: shortcodes/trx_optional/toggles.php:283
+msgid "Open on show"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:160
+msgid "Open current toggles item on show"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:180
+msgid "Toggles item content"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:181
+msgid "Current toggles item content"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:246
+msgid "Item 1 title"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:247
+msgid "Item 2 title"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:254
+msgid "Add item"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:264
+msgid "Single toggles item"
+msgstr ""
+
+#: shortcodes/trx_optional/toggles.php:284
+msgid "Open current toggle item on show"
+msgstr ""
+
+#: shortcodes/trx_optional/tooltip.php:49
+msgid "Tooltip"
+msgstr ""
+
+#: shortcodes/trx_optional/tooltip.php:50
+msgid "Create tooltip for selected text"
+msgstr ""
+
+#: shortcodes/trx_optional/tooltip.php:56
+msgid "Tooltip title (required)"
+msgstr ""
+
+#: shortcodes/trx_optional/tooltip.php:61
+msgid "Tipped content"
+msgstr ""
+
+#: shortcodes/trx_optional/tooltip.php:62
+msgid "Highlighted content with tooltip"
+msgstr ""
+
+#: templates/tpl.login.php:23
+msgid "Login or Email"
+msgstr ""
+
+#: templates/tpl.login.php:24 templates/tpl.register.php:31
+msgid "Password"
+msgstr ""
+
+#: templates/tpl.login.php:26
+msgid "Forgot password?"
+msgstr ""
+
+#: templates/tpl.login.php:28
+msgid "Remember me"
+msgstr ""
+
+#: templates/tpl.login.php:35
+msgid "You can login using your social profile"
+msgstr ""
+
+#: templates/tpl.register.php:22
+msgid "User name (login)"
+msgstr ""
+
+#: templates/tpl.register.php:23
+msgid "E-mail"
+msgstr ""
+
+#: templates/tpl.register.php:26
+msgid "I agree with"
+msgstr ""
+
+#: templates/tpl.register.php:26
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: templates/tpl.register.php:28
+msgid "Sign Up"
+msgstr ""
+
+#: templates/tpl.register.php:32
+msgid "Confirm Password"
+msgstr ""
+
+#: templates/tpl.register.php:33
+msgid "Minimum 4 characters"
+msgstr ""
+
+#: tools/emailer/emailer.php:63 tools/emailer/emailer.php:64
+msgid "Emailer"
+msgstr ""
+
+#: tools/emailer/emailer.php:91 trx_utils.php:197
+msgid "Invalid server answer!"
+msgstr ""
+
+#: tools/emailer/emailer.php:118
+msgid "Subject can not be empty! Operation canceled!"
+msgstr ""
+
+#: tools/emailer/emailer.php:123
+msgid "Message can not be empty! Operation canceled!"
+msgstr ""
+
+#: tools/emailer/emailer.php:134
+msgid "Subscribers lists are empty! Operation canceled!"
+msgstr ""
+
+#: tools/emailer/emailer.php:142
+msgid "Sender email is empty! Operation canceled!"
+msgstr ""
+
+#: tools/emailer/emailer.php:168 tools/emailer/emailer.php:184
+msgid "Error occured when send message!"
+msgstr ""
+
+#: tools/emailer/emailer.php:204
+msgid "The subscriber list is updated"
+msgstr ""
+
+#: tools/emailer/emailer.php:208
+msgid "The subscriber list is cleared"
+msgstr ""
+
+#: tools/emailer/emailer.php:213
+msgid "E-Mail was send successfull!"
+msgstr ""
+
+#: tools/emailer/emailer.php:219
+msgid "ThemeREX Emailer"
+msgstr ""
+
+#: tools/emailer/emailer.php:239
+msgid "Letter data"
+msgstr ""
+
+#: tools/emailer/emailer.php:247
+msgid "Attachment:"
+msgstr ""
+
+#: tools/emailer/emailer.php:265
+msgid "Subscribers"
+msgstr ""
+
+#: tools/emailer/emailer.php:268
+msgid "Select group:"
+msgstr ""
+
+#: tools/emailer/emailer.php:270
+msgid "- Select group -"
+msgstr ""
+
+#: tools/emailer/emailer.php:279
+msgid "Update the subscribers list for selected group"
+msgstr ""
+
+#: tools/emailer/emailer.php:279 tools/po_composer/po_composer.php:181
+#: widgets/qrcode/qrcode.php:268
+msgid "Update"
+msgstr ""
+
+#: tools/emailer/emailer.php:280
+msgid "Clear this group from not confirmed emails after send"
+msgstr ""
+
+#: tools/emailer/emailer.php:280
+msgid "Clear"
+msgstr ""
+
+#: tools/emailer/emailer.php:281
+msgid "Delete this group after send"
+msgstr ""
+
+#: tools/emailer/emailer.php:281
+msgid "Delete"
+msgstr ""
+
+#: tools/emailer/emailer.php:284
+msgid "List of recipients:"
+msgstr ""
+
+#: tools/emailer/emailer.php:288
+msgid "Sender name:"
+msgstr ""
+
+#: tools/emailer/emailer.php:292
+msgid "Sender email:"
+msgstr ""
+
+#: tools/emailer/emailer.php:300
+msgid "Send"
+msgstr ""
+
+#: tools/emailer/emailer.php:330
+msgid "E-mail address already in the subscribers list!"
+msgstr ""
+
+#: tools/emailer/emailer.php:334
+#, php-format
+msgid "Site %s - Subscribe confirmation"
+msgstr ""
+
+#: tools/emailer/emailer.php:337
+#, php-format
+msgid ""
+"You or someone else added this e-mail address into our subcribtion list.\n"
+"Please, confirm your wish to receive newsletters from our website by "
+"clicking on the link below:\n"
+"\n"
+"<a href=\"%s\">%s</a>\n"
+"\n"
+"If you do not wiish to subscribe to our newsletters, simply ignore this "
+"message."
+msgstr ""
+
+#: tools/emailer/emailer.php:352
+msgid "E-mail address is not valid!"
+msgstr ""
+
+#: tools/emailer/emailer.php:371
+msgid ""
+"Confirmation complete! E-mail address succefully added in the subscribers "
+"list!"
+msgstr ""
+
+#: tools/emailer/emailer.php:375
+msgid "Bad confirmation code!"
+msgstr ""
+
+#: tools/emailer/emailer.php:379
+msgid "E-mail address already exists in the subscribers list!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:61 tools/po_composer/po_composer.php:62
+msgid "PO Composer"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:100
+#: tools/po_composer/po_composer.php:105
+msgid "Upload .po-file"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:101
+#: tools/po_composer/po_composer.php:106
+msgid "Edit .po-text"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:102
+#: tools/po_composer/po_composer.php:107
+msgid "Parent languages"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:102
+#: tools/po_composer/po_composer.php:107
+msgid "Languages"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:103
+#: tools/po_composer/po_composer.php:108
+msgid "Child languages"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:104
+msgid "- Select merge source -"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:112
+msgid "ThemeREX .PO-files Composer"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:137
+msgid "Edit .po-file:"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:140
+#: tools/po_composer/po_composer.php:169
+msgid "Select .po-file:"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:146
+msgid "Move translated strings down"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:149
+msgid "Plain text"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:149
+msgid "Strings editor"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:166
+msgid "Merge with .po-file:"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:181
+msgid "Upload"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:185
+msgid "Download .PO-file"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:188
+msgid "Download .MO-file"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:215
+msgid "Error parsing new .po-file!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:227
+msgid "Error parsing merging .po-file!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:285
+#, php-format
+msgid "Language file \"<b>%s.po</b>\" was updated!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:289
+#, php-format
+msgid "Language file \"<b>%s.mo</b>\" was generated!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:292
+#, php-format
+msgid ""
+"Error writing in language file \"<b>%s.po</b>\"!<br>Please, copy text from "
+"textarea below and paste it in the .po-file manually<br>or use links to "
+"upload .po and .mo files below the text area!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:316
+#, php-format
+msgid "Error uploading or Empty .po-file: %s"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:324
+#: tools/po_composer/po_composer.php:338
+msgid "Empty textarea with .po-file content!"
+msgstr ""
+
+#: tools/po_composer/po_composer.php:333
+#, php-format
+msgid "Error loading or Empty .po-file: %s"
+msgstr ""
+
+#: trx_utils.php:198
+msgid "Invalid field's value!"
+msgstr ""
+
+#: trx_utils.php:199
+msgid "The name can't be empty"
+msgstr ""
+
+#: trx_utils.php:201
+msgid "Invalid email address"
+msgstr ""
+
+#: trx_utils.php:202
+msgid "The message text can't be empty"
+msgstr ""
+
+#: trx_utils.php:203
+msgid "Send message complete!"
+msgstr ""
+
+#: trx_utils.php:204
+msgid "Transmit failed!"
+msgstr ""
+
+#: trx_utils.php:397
+msgid "Attention! Do not modify this .css-file!"
+msgstr ""
+
+#: trx_utils.php:399
+msgid "Please, make all necessary changes in the corresponding .less-file!"
+msgstr ""
+
+#: widgets/banner.php:29
+msgid "Banner"
+msgstr ""
+
+#: widgets/banner.php:30
+msgid "ThemeREX - Banner"
+msgstr ""
+
+#: widgets/banner.php:99 widgets/categories.php:118 widgets/flickr.php:95
+#: widgets/qrcode/qrcode.php:178 widgets/socials.php:125
+#: widgets/twitter.php:121
+msgid "Title:"
+msgstr ""
+
+#: widgets/banner.php:104
+msgid "Image source URL:<br />(leave empty if you paste banner code)"
+msgstr ""
+
+#: widgets/banner.php:117
+msgid "Image link URL:<br />(leave empty if you paste banner code)"
+msgstr ""
+
+#: widgets/banner.php:122
+msgid "or paste Banner Widget HTML Code:"
+msgstr ""
+
+#: widgets/banner.php:179
+msgid "Widget Banner"
+msgstr ""
+
+#: widgets/banner.php:180
+msgid "Insert widget with banner or any HTML and/or Javascript code"
+msgstr ""
+
+#: widgets/banner.php:190 widgets/calendar.php:160 widgets/categories.php:229
+#: widgets/flickr.php:170 widgets/popular_posts.php:370
+#: widgets/recent_posts.php:318 widgets/recent_reviews.php:325
+#: widgets/socials.php:233 widgets/top10.php:357 widgets/twitter.php:221
+msgid "Widget title"
+msgstr ""
+
+#: widgets/banner.php:191 widgets/calendar.php:161 widgets/categories.php:230
+#: widgets/flickr.php:171 widgets/popular_posts.php:371
+#: widgets/recent_posts.php:319 widgets/recent_reviews.php:326
+#: widgets/socials.php:234 widgets/top10.php:358 widgets/twitter.php:222
+msgid "Title of the widget"
+msgstr ""
+
+#: widgets/banner.php:200
+msgid ""
+"Select or upload image or write URL from other site for the banner (leave "
+"empty if you paste banner code)"
+msgstr ""
+
+#: widgets/banner.php:207
+msgid "Banner's link"
+msgstr ""
+
+#: widgets/banner.php:208
+msgid "Link URL for the banner (leave empty if you paste banner code)"
+msgstr ""
+
+#: widgets/banner.php:215
+msgid "or paste Banner Widget HTML Code"
+msgstr ""
+
+#: widgets/banner.php:216
+msgid "Widget's HTML and/or JS code"
+msgstr ""
+
+#: widgets/calendar.php:29
+msgid "Calendar for posts and/or Events"
+msgstr ""
+
+#: widgets/calendar.php:30
+msgid "ThemeREX - Advanced Calendar"
+msgstr ""
+
+#: widgets/calendar.php:80 widgets/popular_posts.php:208
+#: widgets/recent_news.php:124 widgets/recent_posts.php:168
+#: widgets/recent_reviews.php:179 widgets/top10.php:198
+msgid "Widget title:"
+msgstr ""
+
+#: widgets/calendar.php:85 widgets/categories.php:123
+#: widgets/popular_posts.php:228 widgets/recent_news.php:152
+#: widgets/recent_posts.php:173 widgets/recent_reviews.php:184
+#: widgets/top10.php:213
+msgid "Post type:"
+msgstr ""
+
+#: widgets/calendar.php:96
+msgid ""
+"Attention! If you check custom post types, please check also settings in "
+"the correspond plugins and enable display this posts in the blog!"
+msgstr ""
+
+#: widgets/calendar.php:149
+msgid "Widget Calendar"
+msgstr ""
+
+#: widgets/calendar.php:150
+msgid ""
+"Insert standard WP Calendar, but allow user select week day's captions"
+msgstr ""
+
+#: widgets/calendar.php:169
+msgid "Week days"
+msgstr ""
+
+#: widgets/calendar.php:170
+msgid ""
+"Show captions for the week days as three letters (Sun, Mon, etc.) or as "
+"one initial letter (S, M, etc.)"
+msgstr ""
+
+#: widgets/calendar.php:172
+msgid "Initial letter"
+msgstr ""
+
+#: widgets/categories.php:29
+msgid "Display subcategories list"
+msgstr ""
+
+#: widgets/categories.php:30
+msgid "ThemeREX - Subcategories list"
+msgstr ""
+
+#: widgets/categories.php:61
+msgid "Select Category"
+msgstr ""
+
+#: widgets/categories.php:136
+msgid "Root category:"
+msgstr ""
+
+#: widgets/categories.php:138 widgets/popular_posts.php:243
+#: widgets/recent_news.php:167 widgets/recent_posts.php:188
+#: widgets/recent_reviews.php:199 widgets/top10.php:228
+msgid "-- Any category --"
+msgstr ""
+
+#: widgets/categories.php:151
+msgid "Display as dropdown"
+msgstr ""
+
+#: widgets/categories.php:154
+msgid "Show post counts"
+msgstr ""
+
+#: widgets/categories.php:157
+msgid "Show hierarchy"
+msgstr ""
+
+#: widgets/categories.php:218
+msgid "Widget Categories"
+msgstr ""
+
+#: widgets/categories.php:219
+msgid "Display the subcategories list for the specified category"
+msgstr ""
+
+#: widgets/categories.php:238
+msgid "Show posts"
+msgstr ""
+
+#: widgets/categories.php:239
+msgid "Show posts number in the each category"
+msgstr ""
+
+#: widgets/categories.php:242
+msgid "Show posts number"
+msgstr ""
+
+#: widgets/categories.php:247 widgets/categories.php:251
+msgid "Show dropdown"
+msgstr ""
+
+#: widgets/categories.php:248
+msgid "Show categories as dropdown list"
+msgstr ""
+
+#: widgets/categories.php:256 widgets/categories.php:260
+msgid "Show hierarchical"
+msgstr ""
+
+#: widgets/categories.php:257
+msgid "Show categories as hierarchical list"
+msgstr ""
+
+#: widgets/categories.php:274 widgets/popular_posts.php:421
+#: widgets/recent_posts.php:345 widgets/recent_reviews.php:352
+#: widgets/top10.php:400
+msgid "Parent category"
+msgstr ""
+
+#: widgets/categories.php:275
+msgid "Select parent category. If empty - show all categories"
+msgstr ""
+
+#: widgets/flickr.php:29
+msgid "Last flickr photos."
+msgstr ""
+
+#: widgets/flickr.php:30
+msgid "ThemeREX - Flickr photos"
+msgstr ""
+
+#: widgets/flickr.php:99
+msgid "Flickr ID:"
+msgstr ""
+
+#: widgets/flickr.php:103
+msgid "Number of photos:"
+msgstr ""
+
+#: widgets/flickr.php:159
+msgid "Widget Flickr photos"
+msgstr ""
+
+#: widgets/flickr.php:160
+msgid "Display the latest photos from Flickr account"
+msgstr ""
+
+#: widgets/flickr.php:179
+msgid "Flickr username"
+msgstr ""
+
+#: widgets/flickr.php:180
+msgid "Your Flickr username"
+msgstr ""
+
+#: widgets/flickr.php:187
+msgid "Number of photos"
+msgstr ""
+
+#: widgets/flickr.php:188
+msgid "How many photos to be displayed?"
+msgstr ""
+
+#: widgets/popular_posts.php:29
+msgid "The most popular and most commented blog posts (extended)"
+msgstr ""
+
+#: widgets/popular_posts.php:30
+msgid "ThemeREX - Most Popular & Commented Posts"
+msgstr ""
+
+#: widgets/popular_posts.php:213
+msgid "Most popular tab title:"
+msgstr ""
+
+#: widgets/popular_posts.php:218
+msgid "Most commented tab title:"
+msgstr ""
+
+#: widgets/popular_posts.php:223
+msgid "Most liked tab title:"
+msgstr ""
+
+#: widgets/popular_posts.php:241 widgets/recent_news.php:165
+#: widgets/recent_posts.php:186 widgets/recent_reviews.php:197
+#: widgets/top10.php:226
+msgid "Category:"
+msgstr ""
+
+#: widgets/popular_posts.php:255 widgets/recent_posts.php:200
+#: widgets/recent_reviews.php:211 widgets/top10.php:240
+msgid "Number posts to show:"
+msgstr ""
+
+#: widgets/popular_posts.php:260 widgets/recent_posts.php:205
+#: widgets/recent_reviews.php:216 widgets/top10.php:245
+msgid "Show post image:"
+msgstr ""
+
+#: widgets/popular_posts.php:262 widgets/popular_posts.php:270
+#: widgets/popular_posts.php:278 widgets/popular_posts.php:286
+#: widgets/recent_news.php:196 widgets/recent_news.php:204
+#: widgets/recent_posts.php:207 widgets/recent_posts.php:215
+#: widgets/recent_posts.php:223 widgets/recent_reviews.php:218
+#: widgets/recent_reviews.php:226 widgets/recent_reviews.php:234
+#: widgets/socials.php:155 widgets/socials.php:162 widgets/top10.php:247
+#: widgets/top10.php:255 widgets/top10.php:263
+msgid "Show"
+msgstr ""
+
+#: widgets/popular_posts.php:264 widgets/popular_posts.php:272
+#: widgets/popular_posts.php:280 widgets/popular_posts.php:288
+#: widgets/recent_news.php:198 widgets/recent_news.php:206
+#: widgets/recent_posts.php:164 widgets/recent_posts.php:209
+#: widgets/recent_posts.php:217 widgets/recent_posts.php:225
+#: widgets/recent_posts.php:303 widgets/recent_reviews.php:220
+#: widgets/recent_reviews.php:228 widgets/recent_reviews.php:236
+#: widgets/recent_reviews.php:247 widgets/recent_reviews.php:398
+#: widgets/socials.php:157 widgets/socials.php:164 widgets/top10.php:249
+#: widgets/top10.php:257 widgets/top10.php:265 widgets/top10.php:276
+#: widgets/top10.php:446
+msgid "Hide"
+msgstr ""
+
+#: widgets/popular_posts.php:268 widgets/recent_posts.php:213
+#: widgets/recent_reviews.php:224 widgets/top10.php:253
+msgid "Show post author:"
+msgstr ""
+
+#: widgets/popular_posts.php:276 widgets/recent_posts.php:221
+#: widgets/recent_reviews.php:232 widgets/top10.php:261
+msgid "Show post date:"
+msgstr ""
+
+#: widgets/popular_posts.php:284 widgets/recent_posts.php:229
+#: widgets/recent_reviews.php:241 widgets/top10.php:270
+msgid "Show post counters:"
+msgstr ""
+
+#: widgets/popular_posts.php:359
+msgid "Widget Popular Posts"
+msgstr ""
+
+#: widgets/popular_posts.php:360
+msgid "Insert popular posts list with thumbs and post's meta"
+msgstr ""
+
+#: widgets/popular_posts.php:379 widgets/popular_posts.php:380
+msgid "Most popular tab title"
+msgstr ""
+
+#: widgets/popular_posts.php:387 widgets/popular_posts.php:388
+msgid "Most commented tab title"
+msgstr ""
+
+#: widgets/popular_posts.php:395 widgets/popular_posts.php:396
+msgid "Most liked tab title"
+msgstr ""
+
+#: widgets/popular_posts.php:403 widgets/recent_posts.php:327
+#: widgets/recent_reviews.php:334 widgets/top10.php:382
+msgid "Number posts to show"
+msgstr ""
+
+#: widgets/popular_posts.php:404 widgets/recent_posts.php:328
+#: widgets/recent_reviews.php:335 widgets/top10.php:383
+msgid "How many posts display in widget?"
+msgstr ""
+
+#: widgets/popular_posts.php:422 widgets/recent_posts.php:346
+#: widgets/recent_reviews.php:353 widgets/top10.php:401
+msgid "Select parent category. If empty - show posts from any category"
+msgstr ""
+
+#: widgets/popular_posts.php:429 widgets/recent_posts.php:353
+#: widgets/recent_reviews.php:360 widgets/top10.php:408
+msgid "Show post's image"
+msgstr ""
+
+#: widgets/popular_posts.php:430 widgets/recent_posts.php:354
+#: widgets/recent_reviews.php:361 widgets/top10.php:409
+msgid "Do you want display post's featured image?"
+msgstr ""
+
+#: widgets/popular_posts.php:439 widgets/recent_posts.php:363
+#: widgets/recent_reviews.php:370 widgets/top10.php:418
+msgid "Show post's author"
+msgstr ""
+
+#: widgets/popular_posts.php:440 widgets/recent_posts.php:364
+#: widgets/recent_reviews.php:371 widgets/top10.php:419
+msgid "Do you want display post's author?"
+msgstr ""
+
+#: widgets/popular_posts.php:449 widgets/recent_posts.php:373
+#: widgets/recent_reviews.php:380 widgets/top10.php:428
+msgid "Show post's date"
+msgstr ""
+
+#: widgets/popular_posts.php:450 widgets/recent_posts.php:374
+#: widgets/recent_reviews.php:381 widgets/top10.php:429
+msgid "Do you want display post's publish date?"
+msgstr ""
+
+#: widgets/popular_posts.php:459 widgets/recent_posts.php:383
+#: widgets/recent_reviews.php:390 widgets/top10.php:438
+msgid "Show post's counters"
+msgstr ""
+
+#: widgets/popular_posts.php:460 widgets/recent_posts.php:384
+#: widgets/recent_reviews.php:391 widgets/top10.php:439
+msgid "Do you want display post's counters?"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:25
+msgid "Generate QRCode with your personal data or with any text (links)"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:31
+msgid "ThemeREX - QRCode generator"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:83 widgets/qrcode/qrcode.php:217
+#: widgets/qrcode/qrcode.php:280
+msgid "Company:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:84 widgets/qrcode/qrcode.php:222
+#: widgets/qrcode/qrcode.php:281
+msgid "Phone:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:86 widgets/qrcode/qrcode.php:283
+msgid "Site:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:145
+msgid "QR Code Generator (for your vcard)"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:172
+msgid "Settings"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:173
+msgid "Personal Data"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:174
+msgid "Any Text"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:182
+msgid "Show as QR Code:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:184
+msgid "Personal VCard"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:186
+msgid "Any text"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:190
+msgid "Show data under QR Code:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:193
+msgid "Width:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:197
+msgid "Color:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:201
+msgid "Bg color:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:207
+msgid "Last name:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:212
+msgid "First name:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:227
+msgid "Address:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:232
+msgid "City:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:237
+msgid "Post code:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:242
+msgid "Country:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:252
+msgid "Web Site URL:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:258
+msgid "Text to show as QR Code:"
+msgstr ""
+
+#: widgets/qrcode/qrcode.php:270
+msgid "Auto"
+msgstr ""
+
+#: widgets/recent_news.php:30
+msgid "Show recent news in many styles"
+msgstr ""
+
+#: widgets/recent_news.php:31
+msgid "ThemeREX - Recent News"
+msgstr ""
+
+#: widgets/recent_news.php:129
+msgid "Block title:"
+msgstr ""
+
+#: widgets/recent_news.php:134
+msgid "Block subtitle:"
+msgstr ""
+
+#: widgets/recent_news.php:139
+msgid "Style:"
+msgstr ""
+
+#: widgets/recent_news.php:179
+msgid "Number of posts to be displayed:"
+msgstr ""
+
+#: widgets/recent_news.php:184
+msgid "Number of featured posts:"
+msgstr ""
+
+#: widgets/recent_news.php:189
+msgid "Number of columns:"
+msgstr ""
+
+#: widgets/recent_news.php:194
+msgid "Show categories:"
+msgstr ""
+
+#: widgets/recent_news.php:202
+msgid "Show counters:"
+msgstr ""
+
+#: widgets/recent_news.php:333
+msgid "All News"
+msgstr ""
+
+#: widgets/recent_news.php:339
+msgid "More"
+msgstr ""
+
+#: widgets/recent_news.php:431
+msgid "Recent News"
+msgstr ""
+
+#: widgets/recent_news.php:432
+msgid "Insert recent news list"
+msgstr ""
+
+#: widgets/recent_news.php:442
+msgid "List style"
+msgstr ""
+
+#: widgets/recent_news.php:443
+msgid "Select style to display news list"
+msgstr ""
+
+#: widgets/recent_news.php:460
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/recent_news.php:461
+msgid ""
+"Title for the widget (fill this field only if you want to use shortcode as "
+"widget)"
+msgstr ""
+
+#: widgets/recent_news.php:486
+msgid "Show categories"
+msgstr ""
+
+#: widgets/recent_news.php:487
+msgid "Show categories in the shortcode's header"
+msgstr ""
+
+#: widgets/recent_news.php:494
+msgid "Show counters"
+msgstr ""
+
+#: widgets/recent_news.php:495
+msgid "Show counters (comments and views) in the shortcode's footer"
+msgstr ""
+
+#: widgets/recent_news.php:516
+msgid "Category"
+msgstr ""
+
+#: widgets/recent_news.php:517
+msgid ""
+"Select category to show news. If empty - select news from any category or "
+"from IDs list"
+msgstr ""
+
+#: widgets/recent_news.php:525
+msgid "Total posts"
+msgstr ""
+
+#: widgets/recent_news.php:535
+msgid "Featured posts"
+msgstr ""
+
+#: widgets/recent_news.php:536
+msgid "How many posts will be displayed as featured?"
+msgstr ""
+
+#: widgets/recent_news.php:550
+msgid "How many columns use to show news list"
+msgstr ""
+
+#: widgets/recent_news.php:572
+msgid "Post sorting"
+msgstr ""
+
+#: widgets/recent_news.php:590
+msgid "List IDs"
+msgstr ""
+
+#: widgets/recent_news.php:591
+msgid ""
+"Comma separated list of post's ID. If set - parameters above (category, "
+"count, order, etc.) are ignored!"
+msgstr ""
+
+#: widgets/recent_posts.php:29
+msgid "The recent blog posts (extended)"
+msgstr ""
+
+#: widgets/recent_posts.php:30
+msgid "ThemeREX - Recent Posts"
+msgstr ""
+
+#: widgets/recent_posts.php:307
+msgid "Widget Recent Posts"
+msgstr ""
+
+#: widgets/recent_posts.php:308
+msgid "Insert recent posts list with thumbs and post's meta"
+msgstr ""
+
+#: widgets/recent_reviews.php:29
+msgid "Recent reviews"
+msgstr ""
+
+#: widgets/recent_reviews.php:30
+msgid "ThemeREX - Recent reviews"
+msgstr ""
+
+#: widgets/recent_reviews.php:243 widgets/recent_reviews.php:396
+#: widgets/top10.php:272 widgets/top10.php:444
+msgid "As stars"
+msgstr ""
+
+#: widgets/recent_reviews.php:245 widgets/top10.php:274
+msgid "As icon"
+msgstr ""
+
+#: widgets/recent_reviews.php:314
+msgid "Widget Recent Reviews"
+msgstr ""
+
+#: widgets/recent_reviews.php:315
+msgid "Insert recent reviews list with thumbs and post's meta"
+msgstr ""
+
+#: widgets/recent_reviews.php:397 widgets/top10.php:445
+msgid "As text"
+msgstr ""
+
+#: widgets/socials.php:29
+msgid "Show site logo and social links"
+msgstr ""
+
+#: widgets/socials.php:30
+msgid "ThemeREX - Show logo and social links"
+msgstr ""
+
+#: widgets/socials.php:129
+msgid "Description:"
+msgstr ""
+
+#: widgets/socials.php:133
+msgid "Logo image:<br />(if empty - use logo from Theme Options)"
+msgstr ""
+
+#: widgets/socials.php:145
+msgid "Logo text:"
+msgstr ""
+
+#: widgets/socials.php:149
+msgid "Logo slogan:"
+msgstr ""
+
+#: widgets/socials.php:153
+msgid "Show logo:"
+msgstr ""
+
+#: widgets/socials.php:160
+msgid "Show social icons:"
+msgstr ""
+
+#: widgets/socials.php:222
+msgid "Widget Socials"
+msgstr ""
+
+#: widgets/socials.php:223
+msgid "Insert site logo, description and/or socials list"
+msgstr ""
+
+#: widgets/socials.php:242
+msgid "Widget text"
+msgstr ""
+
+#: widgets/socials.php:243
+msgid "Any description"
+msgstr ""
+
+#: widgets/socials.php:250
+msgid "Show logo"
+msgstr ""
+
+#: widgets/socials.php:251
+msgid "Do you want display logo image?"
+msgstr ""
+
+#: widgets/socials.php:259
+msgid "Show social icons"
+msgstr ""
+
+#: widgets/socials.php:260
+msgid "Do you want display social icons?"
+msgstr ""
+
+#: widgets/socials.php:268
+msgid "Logo image"
+msgstr ""
+
+#: widgets/socials.php:269
+msgid ""
+"Select or upload image or write URL from other site for the logo (leave "
+"empty if you want use default site logo)"
+msgstr ""
+
+#: widgets/socials.php:280
+msgid "Logo text"
+msgstr ""
+
+#: widgets/socials.php:281
+msgid "Site name for the logo(leave empty if you want use default site text)"
+msgstr ""
+
+#: widgets/socials.php:293
+msgid "Logo slogan"
+msgstr ""
+
+#: widgets/socials.php:294
+msgid ""
+"Site slogan for the logo(leave empty if you want use default site tagline)"
+msgstr ""
+
+#: widgets/top10.php:29
+msgid "Top 10 posts by average reviews marks (by author and users)"
+msgstr ""
+
+#: widgets/top10.php:30
+msgid "ThemeREX - Top 10 Posts"
+msgstr ""
+
+#: widgets/top10.php:203
+msgid "Author rating tab title:"
+msgstr ""
+
+#: widgets/top10.php:208
+msgid "Users rating tab title:"
+msgstr ""
+
+#: widgets/top10.php:346
+msgid "Widget Top10 Reviews"
+msgstr ""
+
+#: widgets/top10.php:347
+msgid "Insert Top10 reviews list with thumbs and post's meta"
+msgstr ""
+
+#: widgets/top10.php:366
+msgid "Author's tab title"
+msgstr ""
+
+#: widgets/top10.php:367 widgets/top10.php:375
+msgid "Title for the tab with authors's reviews"
+msgstr ""
+
+#: widgets/top10.php:374
+msgid "User's tab title"
+msgstr ""
+
+#: widgets/twitter.php:29
+msgid "Last Twitter Updates. Version for new Twitter API 1.1"
+msgstr ""
+
+#: widgets/twitter.php:30
+msgid "ThemeREX - Twitter"
+msgstr ""
+
+#: widgets/twitter.php:126
+msgid "Tweets count:"
+msgstr ""
+
+#: widgets/twitter.php:131
+msgid "Twitter Username:"
+msgstr ""
+
+#: widgets/twitter.php:131
+msgid "leave empty if you paste widget code"
+msgstr ""
+
+#: widgets/twitter.php:136
+msgid "Twitter Consumer Key:"
+msgstr ""
+
+#: widgets/twitter.php:140
+msgid "Twitter Consumer Secret:"
+msgstr ""
+
+#: widgets/twitter.php:144
+msgid "Twitter Token Key:"
+msgstr ""
+
+#: widgets/twitter.php:148
+msgid "Twitter Token Secret:"
+msgstr ""
+
+#: widgets/twitter.php:210
+msgid "Widget Twitter Feed"
+msgstr ""
+
+#: widgets/twitter.php:211
+msgid "Insert widget with Twitter feed"
+msgstr ""
+
+#: widgets/twitter.php:230
+msgid "Tweets number"
+msgstr ""
+
+#: widgets/twitter.php:231
+msgid "Tweets number to show in the feed"
+msgstr ""
+
+#: widgets/twitter.php:239 widgets/twitter.php:240
+msgid "Twitter Username"
+msgstr ""
+
+#: widgets/twitter.php:241 widgets/twitter.php:250 widgets/twitter.php:259
+#: widgets/twitter.php:268 widgets/twitter.php:277
+msgid "Twitter account"
+msgstr ""
+
+#: widgets/twitter.php:248
+msgid "Consumer Key"
+msgstr ""
+
+#: widgets/twitter.php:249
+msgid "Specify Consumer Key from Twitter application"
+msgstr ""
+
+#: widgets/twitter.php:257
+msgid "Consumer Secret"
+msgstr ""
+
+#: widgets/twitter.php:258
+msgid "Specify Consumer Secret from Twitter application"
+msgstr ""
+
+#: widgets/twitter.php:266
+msgid "Token Key"
+msgstr ""
+
+#: widgets/twitter.php:267
+msgid "Specify Token Key from Twitter application"
+msgstr ""
+
+#: widgets/twitter.php:275
+msgid "Token Secret"
+msgstr ""
+
+#: widgets/twitter.php:276
+msgid "Specify Token Secret from Twitter application"
+msgstr ""
