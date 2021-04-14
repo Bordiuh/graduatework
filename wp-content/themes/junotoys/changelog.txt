@@ -1,0 +1,36 @@
+Version 1.5
+	Added:
+	    - Compatibility with with WP 4.9.8
+        - WP GDPR Compliance plugin
+        - Alert to Demo data installation
+        - Privacy Policy page
+
+    Fixed:
+        - Compatibility with Gutenberg and other PageBuilders
+        - Update plugins to their latest versions
+        - Improve theme styles
+		- Update documentaion
+
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Move Importer to ThemeREX Utils plugin
+
+Version 1.4.1
+    Fixed:
+    - Pagination on the shope page
+
+Version 1.4
+	The theme is now compatible with version WooCommerce 3.0 and higher.
+
+Version 1.3
+	Social login improved
+
+Version 1.2
+	Fixed Dummy Data Installer
+	
+Version 1.1
+	Added Mega Main Menu
+	Updated Dummy Data
+	
+Version 1.0
+	Release JunoToys Theme
