@@ -3,6 +3,9 @@
  * Template Name: Контакти
  * */
 
+/* Get ACF*/
+$fields = get_fields();
+
 get_header();
 while (have_posts()){
     the_post();
@@ -35,68 +38,25 @@ while (have_posts()){
                                 <div class="vc_column-inner ">
                                     <div class="wpb_wrapper">
                                         <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_4">
+                                            <?php foreach ($fields['contacts'] as $obj){ ?>
                                             <div class="column-1_4 sc_column_item">
                                                 <div class="sc_section sc_section_block aligncenter">
                                                     <div class="sc_section_inner">
                                                         <div class="sc_section_content_wrap">
                                                             <figure class="sc_image sc_image_shape_square">
-                                                                <img src="images/1-1.png" alt="" />
+                                                                <img src="<?=$obj['image']; ?>" alt="" />
                                                             </figure>
-                                                            <h5 class="sc_title sc_title_regular sc_align_center text_uppercase">Адреса</h5>
+                                                            <h5 class="sc_title sc_title_regular sc_align_center text_uppercase"><?=$obj['title']; ?></h5>
                                                             <div class="wpb_text_column wpb_content_element ">
                                                                 <div class="wpb_wrapper">
-                                                                    <p>проспект Науки, 14, Харків, Харківська область, 61000</p>
+                                                                    <p><?=$obj['description']; ?></p>
                                                                 </div>
                                                             </div>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="column-1_4 sc_column_item">
-                                                <div class="sc_section sc_section_block aligncenter">
-                                                    <div class="sc_section_inner">
-                                                        <div class="sc_section_content_wrap">
-                                                            <figure class="sc_image sc_image_shape_square">
-                                                                <img src="images/2-1.png" alt="" />
-                                                            </figure>
-                                                            <h5 class="sc_title sc_title_regular sc_align_center text_uppercase">Мобільний телефон</h5>
-                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                <div>(096) 482 21 50</div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="column-1_4 sc_column_item">
-                                                <div class="sc_section sc_section_block aligncenter">
-                                                    <div class="sc_section_inner">
-                                                        <div class="sc_section_content_wrap">
-                                                            <figure class="sc_image sc_image_shape_square">
-                                                                <img src="images/3-1.png" alt="" />
-                                                            </figure>
-                                                            <h5 class="sc_title sc_title_regular sc_align_center text_uppercase">Наша скринька</h5>
-                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                <div>juno@gmail.com</div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="column-1_4 sc_column_item">
-                                                <div class="sc_section sc_section_block aligncenter">
-                                                    <div class="sc_section_inner">
-                                                        <div class="sc_section_content_wrap">
-                                                            <figure class="sc_image sc_image_shape_square">
-                                                                <img src="images/4-1a.png" alt="" />
-                                                            </figure>
-                                                            <h5 class="sc_title sc_title_regular sc_align_center text_uppercase">Наша Веб-сторінка</h5>
-                                                            <div class="wpb_text_column wpb_content_element ">
-                                                                <div>www.juno.com</div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                            <?php } ?>
                                         </div>
                                         <div class="vc_empty_space em_height_4-2">
                                             <span class="vc_empty_space_inner"></span>
